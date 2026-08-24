@@ -1,0 +1,51 @@
+Product ID,Product Name,Category,Unit Price
+P001,Wireless Mouse,Electronics,15.99
+P002,Bluetooth Speaker,Electronics,45.5
+P003,USB-C Charger,Electronics,19.99
+P004,Laptop Stand,Electronics,32.0
+P005,Noise Cancelling Headphones,Electronics,89.99
+P006,Smart Watch,Electronics,129.99
+P007,Webcam HD,Electronics,39.99
+P008,Power Bank 10000mAh,Electronics,24.99
+P009,Wireless Keyboard,Electronics,28.5
+P010,Portable SSD 1TB,Electronics,99.99
+P011,Office Chair,Furniture,150.0
+P012,Study Desk,Furniture,220.0
+P013,Bookshelf,Furniture,95.0
+P014,Filing Cabinet,Furniture,110.0
+P015,Sofa Set,Furniture,450.0
+P016,Dining Table,Furniture,300.0
+P017,Bed Frame Queen,Furniture,380.0
+P018,Recliner Chair,Furniture,260.0
+P019,Coffee Table,Furniture,75.0
+P020,Wardrobe 3-Door,Furniture,340.0
+P021,Men's Formal Shirt,Clothing,25.99
+P022,Women's Kurti,Clothing,22.5
+P023,Denim Jeans,Clothing,34.99
+P024,Cotton T-Shirt,Clothing,12.99
+P025,Winter Jacket,Clothing,65.0
+P026,Sports Shoes,Clothing,48.0
+P027,Formal Trousers,Clothing,29.99
+P028,Kids Hoodie,Clothing,18.5
+P029,Saree,Clothing,55.0
+P030,Leather Belt,Clothing,15.0
+P031,Basmati Rice 5kg,Groceries,8.99
+P032,Cooking Oil 1L,Groceries,4.5
+P033,Wheat Flour 5kg,Groceries,6.25
+P034,Sugar 1kg,Groceries,1.2
+P035,Green Tea Pack,Groceries,3.75
+P036,Instant Noodles Pack,Groceries,2.1
+P037,Mixed Spices Combo,Groceries,5.99
+P038,Dry Fruits Pack,Groceries,12.5
+P039,Organic Honey 500g,Groceries,7.8
+P040,Breakfast Cereal,Groceries,4.99
+P041,A4 Paper Ream,Office Supplies,5.5
+P042,Ballpoint Pen Pack,Office Supplies,3.25
+P043,Stapler,Office Supplies,6.99
+P044,Sticky Notes Pack,Office Supplies,2.75
+P045,File Folders (10),Office Supplies,8.5
+P046,Whiteboard Marker Set,Office Supplies,6.25
+P047,Desk Organizer,Office Supplies,14.99
+P048,Printer Ink Cartridge,Office Supplies,22.0
+P049,Notebook Pack (5),Office Supplies,9.99
+P050,Calculator,Office Supplies,11.5

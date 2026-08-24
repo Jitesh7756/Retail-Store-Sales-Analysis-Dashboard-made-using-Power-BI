@@ -1,0 +1,801 @@
+Order ID,Order Date,Product ID,Product Name,Category,Quantity,Unit Price,Sales Amount,Profit,Region,Customer Name
+ORD-1304,01-01-2024,P023,Denim Jeans,Clothing,2,33.56,67.12,16.55,Central,Aadhya Pillai
+ORD-1038,01-01-2024,P049,Notebook Pack (5),Office Supplies,1,9.58,9.58,1.2,West,Suresh Naidu
+ORD-1318,02-01-2024,P014,Filing Cabinet,Furniture,1,108.82,108.82,25.3,North,Krishna Mehta
+ORD-1693,03-01-2024,P010,Portable SSD 1TB,Electronics,4,100.28,401.12,83.18,South,Aditya Naidu
+ORD-1771,03-01-2024,P002,Bluetooth Speaker,Electronics,4,45.97,183.88,42.43,Central,Myra Mehta
+ORD-1353,03-01-2024,P022,Women's Kurti,Clothing,1,22.35,22.35,6.39,West,Anika Mehta
+ORD-1282,04-01-2024,P028,Kids Hoodie,Clothing,10,19.01,190.1,65.87,South,Diya Shah
+ORD-1403,04-01-2024,P004,Laptop Stand,Electronics,2,30.66,61.32,7.01,Central,Ira Sharma
+ORD-1203,04-01-2024,P049,Notebook Pack (5),Office Supplies,10,10.45,104.5,15.93,North,Neha Kumar
+ORD-1170,05-01-2024,P047,Desk Organizer,Office Supplies,4,14.52,58.08,10.16,East,Reyansh Kumar
+ORD-1464,05-01-2024,P034,Sugar 1kg,Groceries,3,1.24,3.72,0.26,South,Anika Kumar
+ORD-1311,06-01-2024,P034,Sugar 1kg,Groceries,2,1.18,2.36,0.27,East,Ayaan Gupta
+ORD-1592,06-01-2024,P007,Webcam HD,Electronics,5,39.43,197.15,32.05,South,Vivaan Nair
+ORD-1230,06-01-2024,P030,Leather Belt,Clothing,10,15.27,152.7,42.74,West,Kiara Iyer
+ORD-1683,07-01-2024,P045,File Folders (10),Office Supplies,1,8.67,8.67,1.18,East,Reyansh Chatterjee
+ORD-1698,07-01-2024,P027,Formal Trousers,Clothing,1,28.7,28.7,10.57,East,Kavita Kumar
+ORD-1292,07-01-2024,P039,Organic Honey 500g,Groceries,4,7.6,30.4,2.92,South,Ira Verma
+ORD-1327,07-01-2024,P042,Ballpoint Pen Pack,Office Supplies,1,3.27,3.27,0.51,Central,Aarav Kumar
+ORD-1607,07-01-2024,P019,Coffee Table,Furniture,1,76.38,76.38,15.93,Central,Diya Nair
+ORD-1072,08-01-2024,P033,Wheat Flour 5kg,Groceries,10,6.28,62.8,8.15,North,Meera Gupta
+ORD-1211,09-01-2024,P002,Bluetooth Speaker,Electronics,3,44.5,133.5,24.22,South,Meera Chatterjee
+ORD-1120,09-01-2024,P029,Saree,Clothing,3,54.4,163.2,47.99,East,Ishaan Bose
+ORD-1205,09-01-2024,P021,Men's Formal Shirt,Clothing,2,25.76,51.52,10.48,Central,Arjun Singh
+ORD-1526,10-01-2024,P021,Men's Formal Shirt,Clothing,1,26.41,26.41,8.78,East,Kiara Iyer
+ORD-1354,10-01-2024,P004,Laptop Stand,Electronics,4,33.44,133.76,31.27,Central,Meera Kapoor
+ORD-1761,11-01-2024,P047,Desk Organizer,Office Supplies,1,14.62,14.62,1.81,West,Vihaan Reddy
+ORD-1776,11-01-2024,P021,Men's Formal Shirt,Clothing,1,27.04,27.04,9.4,West,Manish Gupta
+ORD-1148,12-01-2024,P034,Sugar 1kg,Groceries,4,1.2,4.8,0.49,East,Aarohi Pillai
+ORD-1182,12-01-2024,P021,Men's Formal Shirt,Clothing,2,26.02,52.04,15.16,West,Manish Bose
+ORD-1669,12-01-2024,P001,Wireless Mouse,Electronics,3,15.5,46.5,8.32,East,Arjun Gupta
+ORD-1305,12-01-2024,P020,Wardrobe 3-Door,Furniture,1,327.44,327.44,84.33,East,Kavita Desai
+ORD-1509,12-01-2024,P050,Calculator,Office Supplies,1,11.08,11.08,-0.02,South,Meera Chatterjee
+ORD-1186,12-01-2024,P032,Cooking Oil 1L,Groceries,1,4.52,4.52,0.47,South,Krishna Joshi
+ORD-1649,13-01-2024,P012,Study Desk,Furniture,1,223.72,223.72,38.99,Central,Kiara Naidu
+ORD-1225,14-01-2024,P037,Mixed Spices Combo,Groceries,2,6.25,12.5,0.87,South,Sunil Naidu
+ORD-1344,14-01-2024,P024,Cotton T-Shirt,Clothing,6,13.39,80.34,28.96,East,Aditya Kumar
+ORD-1113,14-01-2024,P009,Wireless Keyboard,Electronics,1,28.32,28.32,6.85,West,Ananya Nair
+ORD-1083,14-01-2024,P015,Sofa Set,Furniture,3,463.82,1391.46,385.12,Central,Vivaan Rao
+ORD-1309,17-01-2024,P015,Sofa Set,Furniture,1,460.3,460.3,134.55,West,Aarav Reddy
+ORD-1130,17-01-2024,P038,Dry Fruits Pack,Groceries,1,11.96,11.96,1.53,West,Aarav Reddy
+ORD-1499,17-01-2024,P022,Women's Kurti,Clothing,1,23.49,23.49,-2.1,South,Aadhya Sharma
+ORD-1508,18-01-2024,P019,Coffee Table,Furniture,6,73.16,438.96,129.16,West,Krishna Joshi
+ORD-1778,19-01-2024,P037,Mixed Spices Combo,Groceries,8,6.2,49.6,6.14,Central,Kiara Shah
+ORD-1169,19-01-2024,P029,Saree,Clothing,4,56.93,227.72,47.24,West,Kavita Kumar
+ORD-1563,19-01-2024,P040,Breakfast Cereal,Groceries,8,5.16,41.28,2.86,West,Anika Kumar
+ORD-1618,20-01-2024,P002,Bluetooth Speaker,Electronics,3,44.37,133.11,22.21,South,Krishna Joshi
+ORD-1330,20-01-2024,P040,Breakfast Cereal,Groceries,3,4.76,14.28,1.11,Central,Rohan Verma
+ORD-1405,20-01-2024,P037,Mixed Spices Combo,Groceries,3,6.25,18.75,2.34,West,Rajesh Pillai
+ORD-1153,21-01-2024,P036,Instant Noodles Pack,Groceries,3,2.07,6.21,0.4,West,Reyansh Patel
+ORD-1622,21-01-2024,P036,Instant Noodles Pack,Groceries,1,2.09,2.09,0.26,South,Ananya Shah
+ORD-1423,21-01-2024,P010,Portable SSD 1TB,Electronics,8,101.58,812.64,199.23,West,Aditya Singh
+ORD-1696,21-01-2024,P036,Instant Noodles Pack,Groceries,1,2.02,2.02,0.13,East,Vivaan Rao
+ORD-1014,22-01-2024,P034,Sugar 1kg,Groceries,1,1.23,1.23,0.17,North,Ishaan Iyer
+ORD-1164,22-01-2024,P029,Saree,Clothing,2,57.64,115.28,41.92,South,Kiara Shah
+ORD-1638,23-01-2024,P001,Wireless Mouse,Electronics,1,15.77,15.77,2.07,Central,Manish Iyer
+ORD-1571,23-01-2024,P044,Sticky Notes Pack,Office Supplies,4,2.74,10.96,1.88,North,Rajesh Verma
+ORD-1121,23-01-2024,P012,Study Desk,Furniture,2,225.12,450.24,109.97,East,Vivaan Nair
+ORD-1065,24-01-2024,P002,Bluetooth Speaker,Electronics,3,45.34,136.02,27.91,North,Aditya Kumar
+ORD-1051,24-01-2024,P022,Women's Kurti,Clothing,4,22.96,91.84,20.21,East,Pooja Verma
+ORD-1142,24-01-2024,P010,Portable SSD 1TB,Electronics,4,101.04,404.16,91.49,North,Vihaan Bose
+ORD-1552,26-01-2024,P022,Women's Kurti,Clothing,3,21.39,64.17,24.16,Central,Karan Naidu
+ORD-1365,26-01-2024,P032,Cooking Oil 1L,Groceries,6,4.56,27.36,2.62,East,Rajesh Sharma
+ORD-1736,27-01-2024,P002,Bluetooth Speaker,Electronics,2,45.96,91.92,20.41,West,Pooja Verma
+ORD-1111,27-01-2024,P039,Organic Honey 500g,Groceries,2,8.16,16.32,2.15,South,Ishaan Bose
+ORD-1086,27-01-2024,P018,Recliner Chair,Furniture,2,256.62,513.24,132.54,Central,Suresh Desai
+ORD-1039,27-01-2024,P039,Organic Honey 500g,Groceries,2,7.45,14.9,1.52,West,Neha Reddy
+ORD-1753,28-01-2024,P033,Wheat Flour 5kg,Groceries,3,6.51,19.53,2.22,South,Diya Shah
+ORD-1589,28-01-2024,P030,Leather Belt,Clothing,10,14.86,148.6,33.51,East,Sunil Naidu
+ORD-1525,28-01-2024,P049,Notebook Pack (5),Office Supplies,1,9.66,9.66,1.24,Central,Sai Desai
+ORD-1024,28-01-2024,P035,Green Tea Pack,Groceries,1,3.63,3.63,0.19,East,Diya Patel
+ORD-1514,28-01-2024,P022,Women's Kurti,Clothing,5,21.89,109.45,36.18,North,Anika Shah
+ORD-1316,28-01-2024,P048,Printer Ink Cartridge,Office Supplies,4,21.85,87.4,14.45,West,Suresh Nair
+ORD-1564,29-01-2024,P038,Dry Fruits Pack,Groceries,1,12.45,12.45,1.7,West,Ishaan Kapoor
+ORD-1194,30-01-2024,P013,Bookshelf,Furniture,4,94.75,379.0,105.14,South,Rajesh Sharma
+ORD-1183,31-01-2024,P011,Office Chair,Furniture,4,151.17,604.68,94.81,North,Riya Desai
+ORD-1615,31-01-2024,P046,Whiteboard Marker Set,Office Supplies,1,6.43,6.43,0.82,West,Reyansh Kapoor
+ORD-1600,01-02-2024,P025,Winter Jacket,Clothing,1,61.98,61.98,23.84,Central,Aarohi Verma
+ORD-1117,02-02-2024,P005,Noise Cancelling Headphones,Electronics,1,86.59,86.59,11.76,Central,Aarav Kumar
+ORD-1624,02-02-2024,P024,Cotton T-Shirt,Clothing,1,12.59,12.59,4.33,West,Kavita Verma
+ORD-1629,02-02-2024,P010,Portable SSD 1TB,Electronics,1,103.16,103.16,12.08,Central,Aadhya Desai
+ORD-1254,02-02-2024,P046,Whiteboard Marker Set,Office Supplies,3,6.48,19.44,3.59,West,Aditya Singh
+ORD-1539,03-02-2024,P007,Webcam HD,Electronics,4,38.05,152.2,21.38,South,Sunil Malhotra
+ORD-1334,03-02-2024,P007,Webcam HD,Electronics,4,41.03,164.12,37.76,Central,Suresh Nair
+ORD-1565,03-02-2024,P035,Green Tea Pack,Groceries,3,3.82,11.46,-0.48,East,Sai Mehta
+ORD-1692,04-02-2024,P046,Whiteboard Marker Set,Office Supplies,2,6.47,12.94,2.3,Central,Aarav Reddy
+ORD-1262,05-02-2024,P006,Smart Watch,Electronics,6,125.27,751.62,162.36,South,Reyansh Chatterjee
+ORD-1070,05-02-2024,P010,Portable SSD 1TB,Electronics,8,95.5,764.0,114.62,Central,Sunil Malhotra
+ORD-1054,07-02-2024,P038,Dry Fruits Pack,Groceries,1,11.89,11.89,1.55,Central,Suresh Nair
+ORD-1374,08-02-2024,P050,Calculator,Office Supplies,1,11.66,11.66,1.35,West,Ayaan Sharma
+ORD-1364,08-02-2024,P002,Bluetooth Speaker,Electronics,6,47.03,282.18,56.54,North,Ananya Joshi
+ORD-1657,09-02-2024,P042,Ballpoint Pen Pack,Office Supplies,1,3.37,3.37,0.37,South,Arjun Singh
+ORD-1140,10-02-2024,P003,USB-C Charger,Electronics,1,20.86,20.86,2.79,Central,Diya Chatterjee
+ORD-1758,11-02-2024,P002,Bluetooth Speaker,Electronics,2,45.91,91.82,22.28,South,Pooja Verma
+ORD-1003,11-02-2024,P024,Cotton T-Shirt,Clothing,1,12.44,12.44,3.2,East,Riya Desai
+ORD-1485,11-02-2024,P007,Webcam HD,Electronics,2,41.19,82.38,20.57,North,Rajesh Pillai
+ORD-1103,11-02-2024,P007,Webcam HD,Electronics,1,40.88,40.88,8.11,South,Reyansh Kapoor
+ORD-1769,12-02-2024,P009,Wireless Keyboard,Electronics,1,29.19,29.19,4.95,West,Diya Patel
+ORD-1473,12-02-2024,P002,Bluetooth Speaker,Electronics,1,47.49,47.49,8.12,West,Ishaan Gupta
+ORD-1232,13-02-2024,P030,Leather Belt,Clothing,3,14.48,43.44,17.36,East,Vihaan Patel
+ORD-1285,13-02-2024,P001,Wireless Mouse,Electronics,6,16.63,99.78,17.76,East,Aarav Kumar
+ORD-1521,13-02-2024,P028,Kids Hoodie,Clothing,3,18.39,55.17,21.23,East,Ira Nair
+ORD-1280,14-02-2024,P031,Basmati Rice 5kg,Groceries,8,8.6,68.8,6.64,East,Neha Nair
+ORD-1588,15-02-2024,P036,Instant Noodles Pack,Groceries,1,2.16,2.16,0.25,West,Neha Verma
+ORD-1491,15-02-2024,P031,Basmati Rice 5kg,Groceries,8,9.06,72.48,8.63,South,Vivaan Desai
+ORD-1079,16-02-2024,P022,Women's Kurti,Clothing,2,22.08,44.16,11.08,West,Aditya Chatterjee
+ORD-1290,16-02-2024,P035,Green Tea Pack,Groceries,5,3.82,19.1,1.03,East,Reyansh Iyer
+ORD-1050,16-02-2024,P038,Dry Fruits Pack,Groceries,5,11.92,59.6,3.39,East,Meera Nair
+ORD-1062,16-02-2024,P034,Sugar 1kg,Groceries,5,1.23,6.15,0.91,Central,Vihaan Shah
+ORD-1034,16-02-2024,P028,Kids Hoodie,Clothing,1,17.65,17.65,5.06,East,Ananya Reddy
+ORD-1367,17-02-2024,P031,Basmati Rice 5kg,Groceries,1,8.66,8.66,0.99,West,Krishna Bose
+ORD-1755,17-02-2024,P019,Coffee Table,Furniture,2,74.95,149.9,41.5,North,Ananya Nair
+ORD-1435,17-02-2024,P023,Denim Jeans,Clothing,2,35.39,70.78,14.71,Central,Neha Sharma
+ORD-1716,18-02-2024,P011,Office Chair,Furniture,1,151.1,151.1,40.9,North,Krishna Patel
+ORD-1366,18-02-2024,P003,USB-C Charger,Electronics,5,20.69,103.45,15.93,West,Rajesh Mehta
+ORD-1498,19-02-2024,P028,Kids Hoodie,Clothing,4,17.86,71.44,18.33,East,Ananya Rao
+ORD-1578,19-02-2024,P039,Organic Honey 500g,Groceries,1,8.13,8.13,1.03,North,Manish Reddy
+ORD-1690,19-02-2024,P009,Wireless Keyboard,Electronics,3,28.41,85.23,20.14,East,Myra Kapoor
+ORD-1233,19-02-2024,P003,USB-C Charger,Electronics,2,19.68,39.36,8.57,East,Anika Kumar
+ORD-1114,20-02-2024,P027,Formal Trousers,Clothing,2,29.2,58.4,23.3,North,Ira Rao
+ORD-1047,21-02-2024,P033,Wheat Flour 5kg,Groceries,2,5.96,11.92,1.19,North,Ananya Gupta
+ORD-1023,21-02-2024,P004,Laptop Stand,Electronics,4,31.28,125.12,23.58,Central,Diya Chatterjee
+ORD-1463,21-02-2024,P036,Instant Noodles Pack,Groceries,5,2.05,10.25,0.7,Central,Meera Nair
+ORD-1328,21-02-2024,P040,Breakfast Cereal,Groceries,3,5.13,15.39,0.94,Central,Kiara Naidu
+ORD-1777,22-02-2024,P040,Breakfast Cereal,Groceries,1,4.89,4.89,0.65,East,Myra Kapoor
+ORD-1217,22-02-2024,P013,Bookshelf,Furniture,4,93.26,373.04,-25.8,East,Sai Desai
+ORD-1617,22-02-2024,P023,Denim Jeans,Clothing,2,34.75,69.5,22.43,West,Aarohi Verma
+ORD-1341,22-02-2024,P038,Dry Fruits Pack,Groceries,1,12.46,12.46,1.47,West,Kiara Naidu
+ORD-1261,22-02-2024,P012,Study Desk,Furniture,10,218.29,2182.9,370.71,West,Vihaan Reddy
+ORD-1237,22-02-2024,P021,Men's Formal Shirt,Clothing,4,25.23,100.92,35.37,North,Diya Mehta
+ORD-1314,23-02-2024,P034,Sugar 1kg,Groceries,1,1.15,1.15,0.15,East,Aarohi Verma
+ORD-1504,24-02-2024,P014,Filing Cabinet,Furniture,2,107.24,214.48,52.29,Central,Vihaan Patel
+ORD-1381,25-02-2024,P010,Portable SSD 1TB,Electronics,1,96.2,96.2,21.92,South,Ananya Malhotra
+ORD-1613,26-02-2024,P032,Cooking Oil 1L,Groceries,1,4.55,4.55,0.4,Central,Suresh Iyer
+ORD-1652,26-02-2024,P032,Cooking Oil 1L,Groceries,3,4.43,13.29,1.9,East,Arjun Patel
+ORD-1245,27-02-2024,P005,Noise Cancelling Headphones,Electronics,1,89.61,89.61,18.94,Central,Ananya Joshi
+ORD-1695,27-02-2024,P032,Cooking Oil 1L,Groceries,1,4.43,4.43,0.39,South,Rohan Naidu
+ORD-1519,27-02-2024,P029,Saree,Clothing,1,52.64,52.64,18.71,Central,Vihaan Reddy
+ORD-1073,28-02-2024,P014,Filing Cabinet,Furniture,3,104.67,314.01,59.6,West,Ishaan Gupta
+ORD-1780,29-02-2024,P001,Wireless Mouse,Electronics,2,15.7,31.4,3.44,West,Anika Kumar
+ORD-1240,29-02-2024,P035,Green Tea Pack,Groceries,6,3.78,22.68,2.66,South,Manish Bose
+ORD-1132,01-03-2024,P015,Sofa Set,Furniture,1,432.61,432.61,112.63,West,Rohan Kapoor
+ORD-1041,01-03-2024,P009,Wireless Keyboard,Electronics,1,28.24,28.24,3.78,North,Rajesh Sharma
+ORD-1163,03-03-2024,P038,Dry Fruits Pack,Groceries,2,12.31,24.62,3.53,East,Arjun Singh
+ORD-1133,03-03-2024,P005,Noise Cancelling Headphones,Electronics,4,87.42,349.68,67.06,West,Aarohi Iyer
+ORD-1325,05-03-2024,P043,Stapler,Office Supplies,1,7.17,7.17,0.84,South,Ayaan Reddy
+ORD-1773,05-03-2024,P030,Leather Belt,Clothing,2,15.26,30.52,10.32,East,Vihaan Reddy
+ORD-1766,06-03-2024,P029,Saree,Clothing,1,54.83,54.83,11.83,East,Diya Shah
+ORD-1414,06-03-2024,P025,Winter Jacket,Clothing,3,63.38,190.14,45.54,East,Aditya Singh
+ORD-1138,06-03-2024,P040,Breakfast Cereal,Groceries,1,5.23,5.23,0.6,Central,Neha Verma
+ORD-1688,07-03-2024,P012,Study Desk,Furniture,1,227.85,227.85,39.04,South,Karan Naidu
+ORD-1267,08-03-2024,P014,Filing Cabinet,Furniture,2,111.03,222.06,50.91,East,Ira Rao
+ORD-1339,08-03-2024,P034,Sugar 1kg,Groceries,3,1.17,3.51,-0.08,North,Anika Kumar
+ORD-1122,10-03-2024,P016,Dining Table,Furniture,5,290.25,1451.25,387.3,West,Pooja Joshi
+ORD-1008,10-03-2024,P050,Calculator,Office Supplies,2,11.97,23.94,3.81,North,Saanvi Kapoor
+ORD-1792,11-03-2024,P037,Mixed Spices Combo,Groceries,2,6.09,12.18,0.79,West,Meera Nair
+ORD-1593,11-03-2024,P001,Wireless Mouse,Electronics,1,16.61,16.61,3.3,South,Suresh Desai
+ORD-1726,12-03-2024,P022,Women's Kurti,Clothing,6,22.29,133.74,36.47,North,Vivaan Joshi
+ORD-1591,12-03-2024,P026,Sports Shoes,Clothing,4,47.55,190.2,54.59,South,Anika Kumar
+ORD-1061,13-03-2024,P048,Printer Ink Cartridge,Office Supplies,8,21.55,172.4,32.25,West,Arjun Chatterjee
+ORD-1146,13-03-2024,P006,Smart Watch,Electronics,2,124.87,249.74,34.03,West,Myra Reddy
+ORD-1129,14-03-2024,P031,Basmati Rice 5kg,Groceries,1,9.11,9.11,0.79,South,Pooja Verma
+ORD-1665,15-03-2024,P008,Power Bank 10000mAh,Electronics,2,24.15,48.3,7.01,West,Aarohi Pillai
+ORD-1775,16-03-2024,P004,Laptop Stand,Electronics,2,32.4,64.8,14.16,East,Rajesh Sharma
+ORD-1434,17-03-2024,P024,Cotton T-Shirt,Clothing,2,12.51,25.02,5.09,Central,Saanvi Reddy
+ORD-1044,17-03-2024,P019,Coffee Table,Furniture,1,71.27,71.27,18.45,Central,Reyansh Pillai
+ORD-1193,17-03-2024,P006,Smart Watch,Electronics,8,132.22,1057.76,230.45,West,Rohan Naidu
+ORD-1343,17-03-2024,P046,Whiteboard Marker Set,Office Supplies,5,6.1,30.5,5.22,East,Meera Kapoor
+ORD-1141,19-03-2024,P009,Wireless Keyboard,Electronics,1,28.86,28.86,5.55,South,Krishna Patel
+ORD-1216,19-03-2024,P037,Mixed Spices Combo,Groceries,1,6.06,6.06,0.79,North,Krishna Bose
+ORD-1396,19-03-2024,P003,USB-C Charger,Electronics,3,19.5,58.5,8.75,South,Manish Malhotra
+ORD-1684,20-03-2024,P005,Noise Cancelling Headphones,Electronics,2,89.85,179.7,27.14,North,Karan Reddy
+ORD-1289,21-03-2024,P029,Saree,Clothing,2,56.49,112.98,32.81,North,Meera Pillai
+ORD-1632,21-03-2024,P039,Organic Honey 500g,Groceries,1,7.6,7.6,0.82,Central,Manish Shah
+ORD-1144,21-03-2024,P025,Winter Jacket,Clothing,2,66.98,133.96,45.14,North,Kavita Desai
+ORD-1167,21-03-2024,P002,Bluetooth Speaker,Electronics,2,46.49,92.98,10.7,North,Sunil Naidu
+ORD-1352,22-03-2024,P013,Bookshelf,Furniture,2,90.8,181.6,39.55,South,Diya Mehta
+ORD-1176,22-03-2024,P031,Basmati Rice 5kg,Groceries,1,8.86,8.86,0.65,West,Manish Bose
+ORD-1488,22-03-2024,P022,Women's Kurti,Clothing,2,23.58,47.16,13.89,East,Kiara Joshi
+ORD-1495,23-03-2024,P028,Kids Hoodie,Clothing,1,17.92,17.92,4.83,East,Ananya Shah
+ORD-1112,23-03-2024,P036,Instant Noodles Pack,Groceries,3,2.02,6.06,0.82,East,Suresh Desai
+ORD-1220,26-03-2024,P023,Denim Jeans,Clothing,3,33.83,101.49,25.76,South,Karan Singh
+ORD-1469,26-03-2024,P038,Dry Fruits Pack,Groceries,4,12.43,49.72,2.88,West,Reyansh Iyer
+ORD-1355,26-03-2024,P034,Sugar 1kg,Groceries,1,1.25,1.25,0.1,Central,Manish Bose
+ORD-1631,27-03-2024,P004,Laptop Stand,Electronics,4,32.3,129.2,19.42,South,Vihaan Patel
+ORD-1052,28-03-2024,P011,Office Chair,Furniture,1,148.12,148.12,25.45,Central,Pooja Joshi
+ORD-1307,30-03-2024,P005,Noise Cancelling Headphones,Electronics,2,94.27,188.54,39.57,West,Ira Rao
+ORD-1634,30-03-2024,P038,Dry Fruits Pack,Groceries,3,12.13,36.39,4.15,West,Manish Chatterjee
+ORD-1035,30-03-2024,P010,Portable SSD 1TB,Electronics,3,95.2,285.6,61.32,Central,Manish Malhotra
+ORD-1637,31-03-2024,P024,Cotton T-Shirt,Clothing,1,12.59,12.59,4.52,West,Aarohi Pillai
+ORD-1441,01-04-2024,P030,Leather Belt,Clothing,1,15.27,15.27,5.36,Central,Aadhya Chatterjee
+ORD-1277,01-04-2024,P031,Basmati Rice 5kg,Groceries,1,9.32,9.32,0.69,West,Diya Shah
+ORD-1084,02-04-2024,P025,Winter Jacket,Clothing,1,63.53,63.53,22.39,East,Ananya Patel
+ORD-1559,02-04-2024,P030,Leather Belt,Clothing,2,14.44,28.88,9.03,West,Kavita Mehta
+ORD-1744,02-04-2024,P017,Bed Frame Queen,Furniture,5,383.8,1919.0,574.32,South,Saanvi Reddy
+ORD-1455,03-04-2024,P036,Instant Noodles Pack,Groceries,1,2.19,2.19,0.21,Central,Krishna Bose
+ORD-1534,04-04-2024,P043,Stapler,Office Supplies,3,7.04,21.12,2.45,Central,Neha Sharma
+ORD-1496,04-04-2024,P003,USB-C Charger,Electronics,2,20.63,41.26,7.48,Central,Anika Shah
+ORD-1202,04-04-2024,P048,Printer Ink Cartridge,Office Supplies,2,22.51,45.02,6.09,Central,Reyansh Pillai
+ORD-1675,05-04-2024,P035,Green Tea Pack,Groceries,2,3.77,7.54,0.91,South,Aarohi Iyer
+ORD-1483,05-04-2024,P028,Kids Hoodie,Clothing,1,18.73,18.73,-1.78,Central,Rajesh Iyer
+ORD-1215,05-04-2024,P005,Noise Cancelling Headphones,Electronics,4,89.55,358.2,48.08,West,Kavita Singh
+ORD-1770,05-04-2024,P025,Winter Jacket,Clothing,2,66.46,132.92,46.72,East,Kiara Desai
+ORD-1659,06-04-2024,P049,Notebook Pack (5),Office Supplies,6,9.96,59.76,8.49,North,Kiara Shah
+ORD-1569,07-04-2024,P034,Sugar 1kg,Groceries,6,1.19,7.14,0.37,Central,Ira Nair
+ORD-1497,07-04-2024,P050,Calculator,Office Supplies,5,11.82,59.1,7.32,Central,Kavita Verma
+ORD-1206,08-04-2024,P027,Formal Trousers,Clothing,5,31.22,156.1,34.56,South,Manish Chatterjee
+ORD-1538,08-04-2024,P038,Dry Fruits Pack,Groceries,4,12.34,49.36,6.67,South,Rajesh Chatterjee
+ORD-1493,08-04-2024,P039,Organic Honey 500g,Groceries,4,7.51,30.04,2.2,East,Ananya Gupta
+ORD-1642,09-04-2024,P007,Webcam HD,Electronics,1,41.7,41.7,7.02,South,Aarav Kumar
+ORD-1689,10-04-2024,P047,Desk Organizer,Office Supplies,3,15.42,46.26,4.99,West,Manish Malhotra
+ORD-1487,11-04-2024,P032,Cooking Oil 1L,Groceries,8,4.6,36.8,3.26,South,Kavita Patel
+ORD-1055,11-04-2024,P026,Sports Shoes,Clothing,10,47.04,470.4,184.59,West,Ishaan Reddy
+ORD-1350,12-04-2024,P049,Notebook Pack (5),Office Supplies,1,10.17,10.17,1.56,South,Aditya Kumar
+ORD-1335,12-04-2024,P019,Coffee Table,Furniture,2,77.1,154.2,35.26,South,Ayaan Reddy
+ORD-1456,13-04-2024,P044,Sticky Notes Pack,Office Supplies,2,2.67,5.34,0.93,South,Meera Nair
+ORD-1199,14-04-2024,P015,Sofa Set,Furniture,2,467.23,934.46,205.49,West,Ira Rao
+ORD-1587,15-04-2024,P033,Wheat Flour 5kg,Groceries,3,6.22,18.66,1.48,West,Arjun Gupta
+ORD-1733,17-04-2024,P017,Bed Frame Queen,Furniture,6,395.88,2375.28,463.5,South,Aarav Shah
+ORD-1429,17-04-2024,P022,Women's Kurti,Clothing,3,22.31,66.93,17.81,West,Aadhya Pillai
+ORD-1605,17-04-2024,P043,Stapler,Office Supplies,5,7.17,35.85,5.07,West,Ayaan Sharma
+ORD-1411,17-04-2024,P043,Stapler,Office Supplies,1,6.64,6.64,1.06,North,Manish Bose
+ORD-1472,17-04-2024,P028,Kids Hoodie,Clothing,2,17.92,35.84,7.33,East,Vihaan Bose
+ORD-1507,19-04-2024,P037,Mixed Spices Combo,Groceries,4,5.95,23.8,2.92,Central,Aarav Mehta
+ORD-1338,19-04-2024,P015,Sofa Set,Furniture,4,458.5,1834.0,353.52,South,Myra Malhotra
+ORD-1715,19-04-2024,P026,Sports Shoes,Clothing,1,47.04,47.04,18.53,North,Aditya Naidu
+ORD-1085,20-04-2024,P040,Breakfast Cereal,Groceries,3,4.78,14.34,1.78,North,Rajesh Joshi
+ORD-1196,21-04-2024,P004,Laptop Stand,Electronics,1,31.61,31.61,-2.93,Central,Rohan Kapoor
+ORD-1636,22-04-2024,P004,Laptop Stand,Electronics,1,33.56,33.56,8.27,Central,Vihaan Chatterjee
+ORD-1020,23-04-2024,P024,Cotton T-Shirt,Clothing,3,13.18,39.54,11.79,North,Suresh Mehta
+ORD-1279,24-04-2024,P046,Whiteboard Marker Set,Office Supplies,1,5.99,5.99,0.82,North,Kavita Kumar
+ORD-1391,24-04-2024,P001,Wireless Mouse,Electronics,3,15.66,46.98,-0.87,North,Rohan Kapoor
+ORD-1106,25-04-2024,P039,Organic Honey 500g,Groceries,2,7.69,15.38,1.05,West,Ayaan Reddy
+ORD-1654,25-04-2024,P033,Wheat Flour 5kg,Groceries,10,6.09,60.9,3.74,Central,Karan Naidu
+ORD-1357,26-04-2024,P046,Whiteboard Marker Set,Office Supplies,10,6.24,62.4,10.92,West,Myra Mehta
+ORD-1157,26-04-2024,P031,Basmati Rice 5kg,Groceries,3,8.78,26.34,3.04,Central,Diya Mehta
+ORD-1477,26-04-2024,P030,Leather Belt,Clothing,2,15.21,30.42,9.33,West,Riya Desai
+ORD-1276,26-04-2024,P018,Recliner Chair,Furniture,5,251.34,1256.7,218.16,Central,Rajesh Mehta
+ORD-1287,29-04-2024,P016,Dining Table,Furniture,6,296.79,1780.74,489.32,West,Sai Desai
+ORD-1363,30-04-2024,P035,Green Tea Pack,Groceries,1,3.77,3.77,0.53,West,Rajesh Pillai
+ORD-1375,30-04-2024,P036,Instant Noodles Pack,Groceries,1,2.2,2.2,0.12,West,Aarav Singh
+ORD-1711,30-04-2024,P012,Study Desk,Furniture,2,230.82,461.64,97.77,South,Myra Reddy
+ORD-1639,30-04-2024,P001,Wireless Mouse,Electronics,6,15.47,92.82,20.22,North,Sunil Iyer
+ORD-1663,01-05-2024,P049,Notebook Pack (5),Office Supplies,1,10.46,10.46,1.92,South,Rajesh Chatterjee
+ORD-1286,01-05-2024,P029,Saree,Clothing,1,56.76,56.76,12.2,West,Meera Gupta
+ORD-1188,03-05-2024,P004,Laptop Stand,Electronics,6,32.72,196.32,22.96,West,Myra Mehta
+ORD-1042,04-05-2024,P033,Wheat Flour 5kg,Groceries,2,6.39,12.78,1.29,West,Manish Gupta
+ORD-1197,04-05-2024,P026,Sports Shoes,Clothing,2,49.96,99.92,24.22,North,Aadhya Pillai
+ORD-1627,04-05-2024,P002,Bluetooth Speaker,Electronics,1,43.87,43.87,8.69,Central,Diya Patel
+ORD-1219,04-05-2024,P010,Portable SSD 1TB,Electronics,4,103.63,414.52,42.22,North,Rohan Kapoor
+ORD-1251,07-05-2024,P033,Wheat Flour 5kg,Groceries,8,6.43,51.44,7.3,South,Meera Gupta
+ORD-1546,08-05-2024,P028,Kids Hoodie,Clothing,1,18.41,18.41,6.98,West,Meera Pillai
+ORD-1426,08-05-2024,P030,Leather Belt,Clothing,1,15.23,15.23,4.16,North,Ira Iyer
+ORD-1731,09-05-2024,P035,Green Tea Pack,Groceries,1,3.93,3.93,0.43,North,Manish Chatterjee
+ORD-1748,09-05-2024,P050,Calculator,Office Supplies,6,12.04,72.24,11.55,North,Ananya Patel
+ORD-1561,10-05-2024,P047,Desk Organizer,Office Supplies,1,14.76,14.76,2.67,South,Diya Chatterjee
+ORD-1089,10-05-2024,P014,Filing Cabinet,Furniture,2,111.09,222.18,33.58,South,Aditya Kumar
+ORD-1060,11-05-2024,P003,USB-C Charger,Electronics,4,20.74,82.96,12.85,East,Ayaan Sharma
+ORD-1602,11-05-2024,P023,Denim Jeans,Clothing,2,36.22,72.44,18.51,East,Ira Singh
+ORD-1401,11-05-2024,P030,Leather Belt,Clothing,1,14.31,14.31,5.4,North,Anika Mehta
+ORD-1451,11-05-2024,P003,USB-C Charger,Electronics,2,19.2,38.4,4.26,North,Suresh Naidu
+ORD-1800,12-05-2024,P024,Cotton T-Shirt,Clothing,5,12.74,63.7,18.13,North,Vivaan Desai
+ORD-1348,13-05-2024,P042,Ballpoint Pen Pack,Office Supplies,1,3.16,3.16,0.59,East,Vivaan Desai
+ORD-1603,13-05-2024,P002,Bluetooth Speaker,Electronics,3,47.37,142.11,29.96,East,Ira Joshi
+ORD-1661,13-05-2024,P039,Organic Honey 500g,Groceries,5,7.76,38.8,3.12,East,Kiara Pillai
+ORD-1425,14-05-2024,P028,Kids Hoodie,Clothing,6,17.65,105.9,34.92,Central,Ira Singh
+ORD-1247,14-05-2024,P007,Webcam HD,Electronics,1,41.31,41.31,8.79,North,Kiara Reddy
+ORD-1321,14-05-2024,P023,Denim Jeans,Clothing,2,34.58,69.16,16.41,West,Manish Reddy
+ORD-1048,15-05-2024,P028,Kids Hoodie,Clothing,1,17.84,17.84,6.68,North,Manish Gupta
+ORD-1029,15-05-2024,P045,File Folders (10),Office Supplies,3,8.13,24.39,4.78,South,Pooja Patel
+ORD-1165,18-05-2024,P012,Study Desk,Furniture,2,218.73,437.46,82.45,South,Aditya Naidu
+ORD-1210,18-05-2024,P042,Ballpoint Pen Pack,Office Supplies,6,3.39,20.34,2.5,Central,Anika Kumar
+ORD-1299,18-05-2024,P036,Instant Noodles Pack,Groceries,2,2.16,4.32,0.36,East,Kavita Verma
+ORD-1573,19-05-2024,P034,Sugar 1kg,Groceries,2,1.16,2.32,0.18,West,Neha Sharma
+ORD-1124,19-05-2024,P019,Coffee Table,Furniture,2,71.52,143.04,35.34,North,Rajesh Pillai
+ORD-1734,20-05-2024,P033,Wheat Flour 5kg,Groceries,6,6.33,37.98,5.24,West,Kavita Patel
+ORD-1128,20-05-2024,P033,Wheat Flour 5kg,Groceries,3,6.16,18.48,1.0,East,Diya Nair
+ORD-1244,20-05-2024,P028,Kids Hoodie,Clothing,2,17.73,35.46,7.31,East,Kavita Patel
+ORD-1071,21-05-2024,P039,Organic Honey 500g,Groceries,1,7.58,7.58,1.04,South,Krishna Joshi
+ORD-1724,22-05-2024,P027,Formal Trousers,Clothing,2,31.21,62.42,15.01,North,Aarohi Verma
+ORD-1691,22-05-2024,P040,Breakfast Cereal,Groceries,1,5.19,5.19,0.36,North,Reyansh Iyer
+ORD-1530,23-05-2024,P001,Wireless Mouse,Electronics,3,16.6,49.8,11.63,North,Vivaan Rao
+ORD-1224,23-05-2024,P045,File Folders (10),Office Supplies,4,8.61,34.44,6.78,East,Manish Shah
+ORD-1408,24-05-2024,P002,Bluetooth Speaker,Electronics,2,45.51,91.02,13.06,Central,Vihaan Reddy
+ORD-1110,24-05-2024,P008,Power Bank 10000mAh,Electronics,6,24.23,145.38,29.33,West,Rajesh Sharma
+ORD-1709,25-05-2024,P029,Saree,Clothing,5,55.04,275.2,76.58,West,Sai Mehta
+ORD-1481,25-05-2024,P017,Bed Frame Queen,Furniture,1,364.01,364.01,88.75,Central,Sai Desai
+ORD-1478,26-05-2024,P038,Dry Fruits Pack,Groceries,2,12.39,24.78,-1.18,South,Neha Verma
+ORD-1445,26-05-2024,P022,Women's Kurti,Clothing,1,22.21,22.21,7.15,West,Ananya Iyer
+ORD-1057,26-05-2024,P011,Office Chair,Furniture,3,152.79,458.37,119.96,Central,Aarohi Pillai
+ORD-1601,26-05-2024,P040,Breakfast Cereal,Groceries,1,4.77,4.77,0.71,Central,Ananya Reddy
+ORD-1162,27-05-2024,P025,Winter Jacket,Clothing,3,63.0,189.0,47.12,South,Aarav Shah
+ORD-1681,28-05-2024,P023,Denim Jeans,Clothing,2,33.43,66.86,18.2,East,Neha Kumar
+ORD-1666,28-05-2024,P046,Whiteboard Marker Set,Office Supplies,1,6.54,6.54,1.01,East,Anika Kumar
+ORD-1030,29-05-2024,P033,Wheat Flour 5kg,Groceries,1,6.28,6.28,0.41,Central,Manish Gupta
+ORD-1782,30-05-2024,P004,Laptop Stand,Electronics,3,32.59,97.77,23.29,West,Meera Gupta
+ORD-1494,30-05-2024,P007,Webcam HD,Electronics,2,38.53,77.06,18.09,West,Rohan Kapoor
+ORD-1762,01-06-2024,P033,Wheat Flour 5kg,Groceries,2,6.19,12.38,1.42,South,Neha Sharma
+ORD-1332,02-06-2024,P035,Green Tea Pack,Groceries,2,3.88,7.76,1.05,South,Vivaan Nair
+ORD-1346,02-06-2024,P034,Sugar 1kg,Groceries,3,1.22,3.66,0.36,East,Vihaan Chatterjee
+ORD-1465,02-06-2024,P008,Power Bank 10000mAh,Electronics,1,25.97,25.97,5.05,East,Aadhya Naidu
+ORD-1673,04-06-2024,P017,Bed Frame Queen,Furniture,4,376.74,1506.96,414.91,South,Karan Naidu
+ORD-1772,04-06-2024,P011,Office Chair,Furniture,1,149.66,149.66,37.98,Central,Aadhya Naidu
+ORD-1156,06-06-2024,P030,Leather Belt,Clothing,1,15.47,15.47,4.23,West,Kiara Naidu
+ORD-1093,07-06-2024,P042,Ballpoint Pen Pack,Office Supplies,2,3.12,6.24,0.9,North,Vivaan Joshi
+ORD-1272,07-06-2024,P024,Cotton T-Shirt,Clothing,1,12.45,12.45,3.57,Central,Ishaan Rao
+ORD-1104,07-06-2024,P023,Denim Jeans,Clothing,6,34.33,205.98,68.22,South,Suresh Desai
+ORD-1012,08-06-2024,P004,Laptop Stand,Electronics,2,31.22,62.44,9.7,North,Rajesh Chatterjee
+ORD-1725,09-06-2024,P033,Wheat Flour 5kg,Groceries,3,5.96,17.88,2.19,North,Suresh Desai
+ORD-1416,09-06-2024,P040,Breakfast Cereal,Groceries,1,5.02,5.02,0.66,South,Ananya Patel
+ORD-1288,09-06-2024,P004,Laptop Stand,Electronics,1,32.86,32.86,3.82,West,Manish Reddy
+ORD-1460,10-06-2024,P006,Smart Watch,Electronics,2,132.41,264.82,33.43,Central,Aarav Kumar
+ORD-1453,10-06-2024,P040,Breakfast Cereal,Groceries,5,4.98,24.9,1.89,South,Meera Nair
+ORD-1680,12-06-2024,P036,Instant Noodles Pack,Groceries,2,2.12,4.24,0.57,North,Reyansh Iyer
+ORD-1326,12-06-2024,P002,Bluetooth Speaker,Electronics,10,45.21,452.1,112.84,Central,Aarohi Verma
+ORD-1738,12-06-2024,P003,USB-C Charger,Electronics,1,20.42,20.42,4.39,South,Ishaan Kapoor
+ORD-1099,13-06-2024,P029,Saree,Clothing,8,56.31,450.48,93.79,Central,Meera Kapoor
+ORD-1682,14-06-2024,P012,Study Desk,Furniture,2,225.86,451.72,80.17,South,Aarav Mehta
+ORD-1468,15-06-2024,P010,Portable SSD 1TB,Electronics,1,100.75,100.75,19.88,East,Sai Mehta
+ORD-1506,15-06-2024,P026,Sports Shoes,Clothing,3,48.16,144.48,46.23,East,Sunil Naidu
+ORD-1640,15-06-2024,P040,Breakfast Cereal,Groceries,3,4.95,14.85,1.85,South,Ananya Rao
+ORD-1759,15-06-2024,P028,Kids Hoodie,Clothing,2,19.34,38.68,-0.12,Central,Kiara Reddy
+ORD-1154,16-06-2024,P003,USB-C Charger,Electronics,4,20.6,82.4,14.66,Central,Aditya Kumar
+ORD-1214,16-06-2024,P007,Webcam HD,Electronics,1,38.29,38.29,7.3,Central,Vivaan Joshi
+ORD-1102,17-06-2024,P047,Desk Organizer,Office Supplies,2,14.75,29.5,4.71,East,Karan Singh
+ORD-1757,17-06-2024,P041,A4 Paper Ream,Office Supplies,2,5.54,11.08,1.57,West,Sunil Chatterjee
+ORD-1294,18-06-2024,P002,Bluetooth Speaker,Electronics,1,43.52,43.52,10.24,South,Meera Pillai
+ORD-1599,18-06-2024,P011,Office Chair,Furniture,6,150.53,903.18,136.94,West,Myra Malhotra
+ORD-1310,18-06-2024,P006,Smart Watch,Electronics,6,136.07,816.42,108.69,West,Reyansh Chatterjee
+ORD-1021,18-06-2024,P024,Cotton T-Shirt,Clothing,2,13.1,26.2,7.72,West,Sunil Naidu
+ORD-1553,18-06-2024,P001,Wireless Mouse,Electronics,3,15.25,45.75,10.43,Central,Aarav Shah
+ORD-1577,19-06-2024,P010,Portable SSD 1TB,Electronics,6,101.28,607.68,123.67,East,Rajesh Verma
+ORD-1222,20-06-2024,P005,Noise Cancelling Headphones,Electronics,1,89.05,89.05,20.15,East,Ananya Gupta
+ORD-1274,20-06-2024,P035,Green Tea Pack,Groceries,1,3.61,3.61,0.46,North,Pooja Verma
+ORD-1610,21-06-2024,P028,Kids Hoodie,Clothing,4,18.96,75.84,26.31,South,Ananya Iyer
+ORD-1714,21-06-2024,P006,Smart Watch,Electronics,2,128.56,257.12,47.79,North,Sunil Malhotra
+ORD-1342,21-06-2024,P006,Smart Watch,Electronics,3,131.21,393.63,56.05,West,Karan Singh
+ORD-1331,21-06-2024,P016,Dining Table,Furniture,3,286.48,859.44,190.18,East,Rajesh Iyer
+ORD-1625,22-06-2024,P035,Green Tea Pack,Groceries,2,3.92,7.84,1.03,North,Reyansh Kumar
+ORD-1700,22-06-2024,P030,Leather Belt,Clothing,8,15.36,122.88,46.51,East,Arjun Gupta
+ORD-1786,23-06-2024,P002,Bluetooth Speaker,Electronics,2,43.74,87.48,11.72,West,Aarohi Verma
+ORD-1018,23-06-2024,P027,Formal Trousers,Clothing,2,29.97,59.94,15.88,East,Aarohi Verma
+ORD-1025,23-06-2024,P023,Denim Jeans,Clothing,3,35.87,107.61,-7.7,West,Ananya Gupta
+ORD-1379,23-06-2024,P040,Breakfast Cereal,Groceries,2,5.07,10.14,1.23,South,Krishna Joshi
+ORD-1522,24-06-2024,P001,Wireless Mouse,Electronics,1,16.18,16.18,1.98,East,Neha Naidu
+ORD-1705,24-06-2024,P038,Dry Fruits Pack,Groceries,4,12.13,48.52,5.64,East,Riya Desai
+ORD-1345,24-06-2024,P035,Green Tea Pack,Groceries,1,3.72,3.72,-0.11,Central,Meera Kapoor
+ORD-1470,24-06-2024,P036,Instant Noodles Pack,Groceries,2,2.12,4.24,0.38,North,Rajesh Chatterjee
+ORD-1161,24-06-2024,P006,Smart Watch,Electronics,10,129.71,1297.1,203.03,West,Ira Sharma
+ORD-1664,25-06-2024,P006,Smart Watch,Electronics,3,129.22,387.66,60.26,North,Ira Rao
+ORD-1187,26-06-2024,P048,Printer Ink Cartridge,Office Supplies,3,22.1,66.3,10.16,South,Aarav Kumar
+ORD-1213,26-06-2024,P007,Webcam HD,Electronics,3,40.15,120.45,18.98,North,Reyansh Patel
+ORD-1686,27-06-2024,P032,Cooking Oil 1L,Groceries,2,4.69,9.38,0.58,North,Aadhya Pillai
+ORD-1094,27-06-2024,P034,Sugar 1kg,Groceries,2,1.16,2.32,0.23,Central,Ayaan Reddy
+ORD-1337,28-06-2024,P012,Study Desk,Furniture,3,214.32,642.96,143.58,West,Ananya Shah
+ORD-1249,28-06-2024,P027,Formal Trousers,Clothing,1,28.91,28.91,6.98,North,Aarav Reddy
+ORD-1520,28-06-2024,P037,Mixed Spices Combo,Groceries,2,5.8,11.6,0.98,East,Kiara Pillai
+ORD-1492,01-07-2024,P008,Power Bank 10000mAh,Electronics,1,25.29,25.29,6.06,North,Kavita Desai
+ORD-1668,01-07-2024,P043,Stapler,Office Supplies,3,6.72,20.16,2.07,South,Ayaan Gupta
+ORD-1648,02-07-2024,P012,Study Desk,Furniture,2,214.29,428.58,-11.5,South,Meera Gupta
+ORD-1362,02-07-2024,P002,Bluetooth Speaker,Electronics,4,45.49,181.96,34.82,Central,Aarohi Iyer
+ORD-1242,02-07-2024,P023,Denim Jeans,Clothing,3,34.95,104.85,23.91,West,Arjun Patel
+ORD-1300,02-07-2024,P006,Smart Watch,Electronics,3,123.87,371.61,82.35,West,Rajesh Joshi
+ORD-1489,03-07-2024,P031,Basmati Rice 5kg,Groceries,4,9.03,36.12,2.25,East,Arjun Gupta
+ORD-1428,04-07-2024,P048,Printer Ink Cartridge,Office Supplies,1,21.07,21.07,3.46,South,Suresh Nair
+ORD-1420,06-07-2024,P034,Sugar 1kg,Groceries,6,1.21,7.26,0.76,West,Diya Shah
+ORD-1763,07-07-2024,P027,Formal Trousers,Clothing,4,31.25,125.0,47.59,East,Sunil Chatterjee
+ORD-1764,07-07-2024,P028,Kids Hoodie,Clothing,2,18.29,36.58,9.28,North,Kavita Bose
+ORD-1281,07-07-2024,P021,Men's Formal Shirt,Clothing,2,25.45,50.9,18.17,South,Rajesh Sharma
+ORD-1066,08-07-2024,P045,File Folders (10),Office Supplies,10,8.17,81.7,10.09,West,Manish Iyer
+ORD-1195,08-07-2024,P027,Formal Trousers,Clothing,3,28.89,86.67,21.54,North,Kiara Reddy
+ORD-1791,09-07-2024,P031,Basmati Rice 5kg,Groceries,1,9.27,9.27,0.78,North,Krishna Bose
+ORD-1671,09-07-2024,P021,Men's Formal Shirt,Clothing,6,25.63,153.78,35.31,East,Anika Mehta
+ORD-1101,09-07-2024,P031,Basmati Rice 5kg,Groceries,1,8.93,8.93,0.84,South,Vihaan Shah
+ORD-1258,09-07-2024,P045,File Folders (10),Office Supplies,1,8.87,8.87,1.13,East,Suresh Desai
+ORD-1568,10-07-2024,P004,Laptop Stand,Electronics,2,33.05,66.1,9.61,South,Ananya Rao
+ORD-1184,10-07-2024,P042,Ballpoint Pen Pack,Office Supplies,10,3.24,32.4,4.17,South,Saanvi Reddy
+ORD-1152,10-07-2024,P035,Green Tea Pack,Groceries,5,3.8,19.0,2.11,North,Aarav Malhotra
+ORD-1439,11-07-2024,P047,Desk Organizer,Office Supplies,1,14.25,14.25,-0.68,Central,Ananya Patel
+ORD-1340,11-07-2024,P040,Breakfast Cereal,Groceries,5,4.85,24.25,2.69,East,Kavita Bose
+ORD-1308,12-07-2024,P039,Organic Honey 500g,Groceries,3,8.13,24.39,3.14,Central,Ira Joshi
+ORD-1555,13-07-2024,P008,Power Bank 10000mAh,Electronics,4,24.64,98.56,10.39,East,Ira Naidu
+ORD-1005,13-07-2024,P024,Cotton T-Shirt,Clothing,5,12.85,64.25,22.74,North,Diya Mehta
+ORD-1295,14-07-2024,P008,Power Bank 10000mAh,Electronics,1,26.05,26.05,4.3,West,Pooja Verma
+ORD-1486,14-07-2024,P033,Wheat Flour 5kg,Groceries,1,6.42,6.42,0.37,South,Ishaan Bose
+ORD-1298,14-07-2024,P004,Laptop Stand,Electronics,3,32.95,98.85,13.58,Central,Myra Mehta
+ORD-1063,14-07-2024,P031,Basmati Rice 5kg,Groceries,1,8.65,8.65,0.75,East,Kiara Naidu
+ORD-1297,15-07-2024,P024,Cotton T-Shirt,Clothing,3,12.99,38.97,14.67,North,Sai Nair
+ORD-1329,15-07-2024,P050,Calculator,Office Supplies,4,11.83,47.32,8.84,West,Suresh Kumar
+ORD-1098,15-07-2024,P008,Power Bank 10000mAh,Electronics,2,23.88,47.76,10.73,North,Vihaan Chatterjee
+ORD-1392,17-07-2024,P039,Organic Honey 500g,Groceries,2,7.81,15.62,2.03,North,Anika Shah
+ORD-1406,17-07-2024,P001,Wireless Mouse,Electronics,1,15.59,15.59,1.72,East,Rohan Naidu
+ORD-1424,17-07-2024,P008,Power Bank 10000mAh,Electronics,1,24.4,24.4,3.3,Central,Krishna Mehta
+ORD-1576,19-07-2024,P023,Denim Jeans,Clothing,1,36.4,36.4,7.65,North,Saanvi Kapoor
+ORD-1409,19-07-2024,P038,Dry Fruits Pack,Groceries,2,12.9,25.8,1.37,South,Vivaan Nair
+ORD-1579,19-07-2024,P028,Kids Hoodie,Clothing,2,19.33,38.66,8.84,East,Vihaan Shah
+ORD-1231,19-07-2024,P004,Laptop Stand,Electronics,2,32.06,64.12,12.0,West,Vivaan Desai
+ORD-1516,20-07-2024,P037,Mixed Spices Combo,Groceries,8,6.14,49.12,5.28,West,Kiara Shah
+ORD-1545,20-07-2024,P038,Dry Fruits Pack,Groceries,1,12.5,12.5,0.85,Central,Vivaan Nair
+ORD-1562,21-07-2024,P035,Green Tea Pack,Groceries,2,3.77,7.54,0.96,East,Kiara Desai
+ORD-1699,21-07-2024,P048,Printer Ink Cartridge,Office Supplies,3,21.77,65.31,9.94,North,Reyansh Chatterjee
+ORD-1490,21-07-2024,P044,Sticky Notes Pack,Office Supplies,8,2.68,21.44,-0.44,Central,Neha Sharma
+ORD-1223,22-07-2024,P030,Leather Belt,Clothing,1,14.73,14.73,5.74,East,Kavita Kumar
+ORD-1543,22-07-2024,P011,Office Chair,Furniture,3,150.24,450.72,110.24,East,Ananya Gupta
+ORD-1131,22-07-2024,P028,Kids Hoodie,Clothing,8,18.26,146.08,51.51,Central,Vihaan Shah
+ORD-1078,23-07-2024,P039,Organic Honey 500g,Groceries,4,7.58,30.32,2.89,East,Manish Iyer
+ORD-1145,23-07-2024,P028,Kids Hoodie,Clothing,2,18.2,36.4,8.33,East,Neha Verma
+ORD-1189,24-07-2024,P002,Bluetooth Speaker,Electronics,3,45.26,135.78,27.27,South,Diya Patel
+ORD-1741,24-07-2024,P024,Cotton T-Shirt,Clothing,6,13.61,81.66,19.57,South,Neha Kumar
+ORD-1150,25-07-2024,P028,Kids Hoodie,Clothing,1,17.59,17.59,3.9,East,Vihaan Shah
+ORD-1208,26-07-2024,P004,Laptop Stand,Electronics,1,33.05,33.05,3.7,North,Meera Pillai
+ORD-1291,26-07-2024,P036,Instant Noodles Pack,Groceries,2,2.01,4.02,0.32,South,Pooja Verma
+ORD-1540,26-07-2024,P008,Power Bank 10000mAh,Electronics,5,24.96,124.8,18.56,South,Saanvi Kapoor
+ORD-1419,26-07-2024,P002,Bluetooth Speaker,Electronics,4,47.28,189.12,43.01,Central,Krishna Patel
+ORD-1235,26-07-2024,P034,Sugar 1kg,Groceries,2,1.21,2.42,0.2,West,Aarav Bose
+ORD-1019,27-07-2024,P010,Portable SSD 1TB,Electronics,4,97.75,391.0,39.7,North,Manish Chatterjee
+ORD-1380,28-07-2024,P015,Sofa Set,Furniture,2,444.33,888.66,147.47,West,Aditya Kumar
+ORD-1674,28-07-2024,P029,Saree,Clothing,10,52.61,526.1,206.24,North,Ananya Patel
+ORD-1137,29-07-2024,P039,Organic Honey 500g,Groceries,1,8.1,8.1,0.46,West,Ishaan Gupta
+ORD-1467,29-07-2024,P006,Smart Watch,Electronics,1,128.17,128.17,23.54,East,Rajesh Iyer
+ORD-1721,29-07-2024,P004,Laptop Stand,Electronics,2,30.87,61.74,7.57,East,Diya Nair
+ORD-1322,30-07-2024,P005,Noise Cancelling Headphones,Electronics,3,86.85,260.55,53.27,East,Riya Desai
+ORD-1191,30-07-2024,P020,Wardrobe 3-Door,Furniture,4,350.83,1403.32,260.37,Central,Aadhya Desai
+ORD-1567,30-07-2024,P020,Wardrobe 3-Door,Furniture,1,349.6,349.6,68.61,North,Sai Desai
+ORD-1043,31-07-2024,P023,Denim Jeans,Clothing,2,36.47,72.94,22.0,North,Ira Singh
+ORD-1269,31-07-2024,P005,Noise Cancelling Headphones,Electronics,1,93.79,93.79,22.73,East,Reyansh Patel
+ORD-1087,31-07-2024,P010,Portable SSD 1TB,Electronics,1,95.81,95.81,15.95,Central,Neha Reddy
+ORD-1790,31-07-2024,P022,Women's Kurti,Clothing,1,22.19,22.19,8.07,South,Ananya Gupta
+ORD-1059,31-07-2024,P035,Green Tea Pack,Groceries,4,3.58,14.32,1.24,East,Neha Nair
+ORD-1739,31-07-2024,P023,Denim Jeans,Clothing,1,35.65,35.65,13.02,South,Suresh Desai
+ORD-1278,01-08-2024,P041,A4 Paper Ream,Office Supplies,3,5.73,17.19,2.99,East,Myra Reddy
+ORD-1369,01-08-2024,P033,Wheat Flour 5kg,Groceries,1,6.37,6.37,0.36,South,Aarohi Reddy
+ORD-1633,01-08-2024,P008,Power Bank 10000mAh,Electronics,1,23.76,23.76,5.68,Central,Diya Chatterjee
+ORD-1658,01-08-2024,P005,Noise Cancelling Headphones,Electronics,1,86.82,86.82,10.64,North,Suresh Mehta
+ORD-1531,01-08-2024,P006,Smart Watch,Electronics,6,132.03,792.18,89.65,Central,Meera Nair
+ORD-1200,01-08-2024,P017,Bed Frame Queen,Furniture,1,393.84,393.84,-17.59,Central,Krishna Patel
+ORD-1635,02-08-2024,P021,Men's Formal Shirt,Clothing,3,26.55,79.65,25.68,East,Ananya Nair
+ORD-1795,02-08-2024,P001,Wireless Mouse,Electronics,3,16.22,48.66,11.45,Central,Suresh Mehta
+ORD-1009,03-08-2024,P033,Wheat Flour 5kg,Groceries,1,6.17,6.17,0.44,West,Sai Nair
+ORD-1368,03-08-2024,P016,Dining Table,Furniture,1,297.02,297.02,87.43,West,Aadhya Pillai
+ORD-1436,03-08-2024,P023,Denim Jeans,Clothing,6,35.13,210.78,42.21,West,Ananya Iyer
+ORD-1360,03-08-2024,P008,Power Bank 10000mAh,Electronics,2,25.11,50.22,8.6,North,Ishaan Reddy
+ORD-1728,04-08-2024,P044,Sticky Notes Pack,Office Supplies,3,2.83,8.49,1.12,West,Karan Mehta
+ORD-1440,04-08-2024,P036,Instant Noodles Pack,Groceries,2,2.02,4.04,0.37,East,Aditya Naidu
+ORD-1116,04-08-2024,P022,Women's Kurti,Clothing,1,21.86,21.86,5.03,Central,Rajesh Joshi
+ORD-1031,05-08-2024,P005,Noise Cancelling Headphones,Electronics,4,91.82,367.28,61.74,East,Arjun Gupta
+ORD-1001,06-08-2024,P039,Organic Honey 500g,Groceries,10,7.87,78.7,11.41,Central,Vihaan Chatterjee
+ORD-1091,07-08-2024,P036,Instant Noodles Pack,Groceries,1,2.18,2.18,-0.02,East,Diya Mehta
+ORD-1118,07-08-2024,P008,Power Bank 10000mAh,Electronics,3,23.78,71.34,12.65,South,Kiara Shah
+ORD-1264,07-08-2024,P034,Sugar 1kg,Groceries,1,1.15,1.15,0.14,West,Ananya Nair
+ORD-1751,08-08-2024,P002,Bluetooth Speaker,Electronics,2,47.68,95.36,16.68,East,Krishna Mehta
+ORD-1533,08-08-2024,P009,Wireless Keyboard,Electronics,3,27.65,82.95,10.01,Central,Vivaan Nair
+ORD-1015,09-08-2024,P017,Bed Frame Queen,Furniture,3,363.62,1090.86,-63.26,West,Kiara Iyer
+ORD-1750,09-08-2024,P003,USB-C Charger,Electronics,2,20.85,41.7,9.66,East,Rajesh Joshi
+ORD-1513,10-08-2024,P031,Basmati Rice 5kg,Groceries,4,9.06,36.24,2.1,East,Ananya Nair
+ORD-1794,10-08-2024,P001,Wireless Mouse,Electronics,4,16.02,64.08,7.08,West,Ayaan Sharma
+ORD-1619,11-08-2024,P035,Green Tea Pack,Groceries,1,3.69,3.69,-0.11,West,Aadhya Pillai
+ORD-1781,12-08-2024,P026,Sports Shoes,Clothing,2,47.69,95.38,22.15,West,Neha Verma
+ORD-1108,12-08-2024,P020,Wardrobe 3-Door,Furniture,1,335.81,335.81,58.54,Central,Ayaan Sharma
+ORD-1312,12-08-2024,P004,Laptop Stand,Electronics,3,31.52,94.56,20.62,North,Anika Mehta
+ORD-1694,13-08-2024,P042,Ballpoint Pen Pack,Office Supplies,6,3.39,20.34,3.77,Central,Suresh Iyer
+ORD-1535,14-08-2024,P013,Bookshelf,Furniture,4,97.52,390.08,110.01,West,Ishaan Reddy
+ORD-1732,14-08-2024,P025,Winter Jacket,Clothing,3,66.3,198.9,75.71,Central,Karan Mehta
+ORD-1474,14-08-2024,P010,Portable SSD 1TB,Electronics,1,101.54,101.54,23.64,South,Diya Chatterjee
+ORD-1333,14-08-2024,P048,Printer Ink Cartridge,Office Supplies,4,21.61,86.44,14.94,North,Meera Kapoor
+ORD-1672,14-08-2024,P006,Smart Watch,Electronics,2,136.2,272.4,62.96,West,Vihaan Patel
+ORD-1793,14-08-2024,P037,Mixed Spices Combo,Groceries,6,6.23,37.38,5.43,East,Pooja Verma
+ORD-1754,14-08-2024,P001,Wireless Mouse,Electronics,2,15.45,30.9,5.26,West,Manish Malhotra
+ORD-1422,16-08-2024,P004,Laptop Stand,Electronics,5,32.98,164.9,31.68,Central,Aditya Kumar
+ORD-1549,16-08-2024,P043,Stapler,Office Supplies,1,6.74,6.74,1.19,East,Rajesh Verma
+ORD-1394,17-08-2024,P036,Instant Noodles Pack,Groceries,4,2.11,8.44,0.93,South,Suresh Mehta
+ORD-1115,17-08-2024,P036,Instant Noodles Pack,Groceries,4,2.02,8.08,0.64,South,Manish Gupta
+ORD-1151,18-08-2024,P017,Bed Frame Queen,Furniture,1,382.35,382.35,78.14,West,Vihaan Chatterjee
+ORD-1706,18-08-2024,P039,Organic Honey 500g,Groceries,2,8.15,16.3,0.87,North,Anika Mehta
+ORD-1385,19-08-2024,P047,Desk Organizer,Office Supplies,8,15.61,124.88,22.01,East,Suresh Mehta
+ORD-1594,20-08-2024,P037,Mixed Spices Combo,Groceries,5,6.23,31.15,3.72,Central,Pooja Joshi
+ORD-1702,20-08-2024,P046,Whiteboard Marker Set,Office Supplies,2,6.31,12.62,1.77,East,Reyansh Iyer
+ORD-1551,20-08-2024,P028,Kids Hoodie,Clothing,2,17.59,35.18,13.25,Central,Anika Kumar
+ORD-1253,20-08-2024,P028,Kids Hoodie,Clothing,1,19.05,19.05,6.74,East,Ira Naidu
+ORD-1550,22-08-2024,P013,Bookshelf,Furniture,1,91.5,91.5,16.51,East,Neha Naidu
+ORD-1452,22-08-2024,P050,Calculator,Office Supplies,1,11.43,11.43,1.57,South,Ananya Malhotra
+ORD-1221,22-08-2024,P027,Formal Trousers,Clothing,1,30.84,30.84,8.4,West,Arjun Gupta
+ORD-1510,23-08-2024,P035,Green Tea Pack,Groceries,6,3.75,22.5,2.41,North,Reyansh Kumar
+ORD-1580,24-08-2024,P006,Smart Watch,Electronics,4,134.96,539.84,-28.32,East,Aadhya Pillai
+ORD-1645,24-08-2024,P044,Sticky Notes Pack,Office Supplies,1,2.85,2.85,0.42,Central,Anika Kumar
+ORD-1417,24-08-2024,P004,Laptop Stand,Electronics,4,32.45,129.8,18.37,East,Aadhya Pillai
+ORD-1053,24-08-2024,P010,Portable SSD 1TB,Electronics,5,101.19,505.95,68.87,South,Aarav Bose
+ORD-1017,25-08-2024,P030,Leather Belt,Clothing,1,15.53,15.53,5.69,West,Suresh Gupta
+ORD-1544,25-08-2024,P045,File Folders (10),Office Supplies,2,8.43,16.86,2.72,Central,Reyansh Chatterjee
+ORD-1643,26-08-2024,P035,Green Tea Pack,Groceries,1,3.61,3.61,0.43,South,Ananya Rao
+ORD-1004,26-08-2024,P004,Laptop Stand,Electronics,2,30.89,61.78,8.16,East,Riya Desai
+ORD-1597,26-08-2024,P026,Sports Shoes,Clothing,1,47.91,47.91,16.2,Central,Sai Nair
+ORD-1007,27-08-2024,P048,Printer Ink Cartridge,Office Supplies,1,21.86,21.86,2.25,West,Ayaan Sharma
+ORD-1136,27-08-2024,P004,Laptop Stand,Electronics,4,31.16,124.64,21.7,Central,Ira Naidu
+ORD-1475,27-08-2024,P033,Wheat Flour 5kg,Groceries,2,6.04,12.08,0.65,East,Anika Kumar
+ORD-1036,28-08-2024,P028,Kids Hoodie,Clothing,6,17.91,107.46,34.07,West,Meera Pillai
+ORD-1747,29-08-2024,P017,Bed Frame Queen,Furniture,4,370.74,1482.96,243.64,East,Karan Mehta
+ORD-1349,29-08-2024,P028,Kids Hoodie,Clothing,5,18.45,92.25,34.43,Central,Sunil Iyer
+ORD-1730,31-08-2024,P022,Women's Kurti,Clothing,2,22.33,44.66,15.03,South,Krishna Mehta
+ORD-1606,31-08-2024,P026,Sports Shoes,Clothing,1,46.87,46.87,17.06,West,Rohan Verma
+ORD-1174,01-09-2024,P037,Mixed Spices Combo,Groceries,5,6.0,30.0,1.76,South,Aditya Kumar
+ORD-1667,02-09-2024,P050,Calculator,Office Supplies,3,11.84,35.52,6.14,East,Ananya Rao
+ORD-1388,02-09-2024,P033,Wheat Flour 5kg,Groceries,2,6.37,12.74,1.05,East,Rohan Kapoor
+ORD-1582,03-09-2024,P035,Green Tea Pack,Groceries,2,3.71,7.42,0.68,Central,Suresh Nair
+ORD-1383,04-09-2024,P029,Saree,Clothing,1,54.99,54.99,16.83,West,Kiara Naidu
+ORD-1557,04-09-2024,P024,Cotton T-Shirt,Clothing,3,13.14,39.42,8.75,Central,Vihaan Reddy
+ORD-1016,04-09-2024,P048,Printer Ink Cartridge,Office Supplies,4,21.86,87.44,15.16,East,Aditya Naidu
+ORD-1641,05-09-2024,P004,Laptop Stand,Electronics,4,33.18,132.72,20.75,West,Kiara Naidu
+ORD-1723,05-09-2024,P027,Formal Trousers,Clothing,1,28.94,28.94,5.95,East,Rajesh Sharma
+ORD-1402,06-09-2024,P025,Winter Jacket,Clothing,1,65.11,65.11,23.06,Central,Ayaan Gupta
+ORD-1351,06-09-2024,P020,Wardrobe 3-Door,Furniture,6,356.55,2139.3,366.85,South,Vihaan Bose
+ORD-1201,07-09-2024,P014,Filing Cabinet,Furniture,2,108.68,217.36,59.77,East,Aditya Reddy
+ORD-1729,08-09-2024,P002,Bluetooth Speaker,Electronics,1,47.64,47.64,7.9,Central,Ishaan Rao
+ORD-1707,08-09-2024,P017,Bed Frame Queen,Furniture,2,362.37,724.74,127.94,East,Ayaan Sharma
+ORD-1075,08-09-2024,P028,Kids Hoodie,Clothing,3,17.63,52.89,21.14,West,Kiara Iyer
+ORD-1752,08-09-2024,P015,Sofa Set,Furniture,3,461.77,1385.31,262.6,South,Meera Chatterjee
+ORD-1458,08-09-2024,P048,Printer Ink Cartridge,Office Supplies,2,21.59,43.18,8.2,Central,Ira Singh
+ORD-1171,09-09-2024,P020,Wardrobe 3-Door,Furniture,1,356.42,356.42,68.68,Central,Ishaan Gupta
+ORD-1678,09-09-2024,P035,Green Tea Pack,Groceries,2,3.75,7.5,0.89,North,Ira Singh
+ORD-1784,09-09-2024,P002,Bluetooth Speaker,Electronics,3,43.81,131.43,17.08,North,Vihaan Patel
+ORD-1303,09-09-2024,P020,Wardrobe 3-Door,Furniture,1,346.82,346.82,101.32,Central,Meera Kapoor
+ORD-1484,09-09-2024,P045,File Folders (10),Office Supplies,1,8.68,8.68,1.5,South,Neha Naidu
+ORD-1149,10-09-2024,P007,Webcam HD,Electronics,2,41.86,83.72,11.07,North,Diya Chatterjee
+ORD-1743,10-09-2024,P028,Kids Hoodie,Clothing,5,18.49,92.45,22.64,East,Arjun Singh
+ORD-1266,10-09-2024,P005,Noise Cancelling Headphones,Electronics,1,90.95,90.95,11.67,North,Manish Chatterjee
+ORD-1192,10-09-2024,P011,Office Chair,Furniture,3,151.38,454.14,118.2,West,Vivaan Rao
+ORD-1765,10-09-2024,P027,Formal Trousers,Clothing,3,28.77,86.31,26.12,South,Ira Nair
+ORD-1125,11-09-2024,P006,Smart Watch,Electronics,2,128.69,257.38,42.71,East,Suresh Iyer
+ORD-1727,11-09-2024,P010,Portable SSD 1TB,Electronics,4,104.32,417.28,74.4,Central,Ishaan Bose
+ORD-1595,12-09-2024,P029,Saree,Clothing,5,54.37,271.85,66.64,North,Diya Mehta
+ORD-1517,13-09-2024,P006,Smart Watch,Electronics,1,130.92,130.92,14.06,North,Rohan Verma
+ORD-1427,13-09-2024,P014,Filing Cabinet,Furniture,2,108.38,216.76,60.73,West,Ananya Patel
+ORD-1529,13-09-2024,P018,Recliner Chair,Furniture,2,251.08,502.16,101.44,East,Karan Mehta
+ORD-1033,13-09-2024,P040,Breakfast Cereal,Groceries,6,4.96,29.76,2.88,West,Sai Desai
+ORD-1655,13-09-2024,P015,Sofa Set,Furniture,2,446.53,893.06,141.25,West,Aadhya Naidu
+ORD-1537,14-09-2024,P024,Cotton T-Shirt,Clothing,3,12.64,37.92,7.78,West,Vivaan Nair
+ORD-1785,14-09-2024,P014,Filing Cabinet,Furniture,3,115.49,346.47,70.62,South,Ira Joshi
+ORD-1421,14-09-2024,P020,Wardrobe 3-Door,Furniture,4,332.89,1331.56,292.55,West,Vihaan Shah
+ORD-1336,15-09-2024,P034,Sugar 1kg,Groceries,1,1.15,1.15,0.1,East,Rajesh Sharma
+ORD-1717,15-09-2024,P025,Winter Jacket,Clothing,1,66.96,66.96,19.76,North,Ishaan Reddy
+ORD-1100,15-09-2024,P029,Saree,Clothing,1,52.59,52.59,11.61,East,Suresh Desai
+ORD-1384,15-09-2024,P043,Stapler,Office Supplies,3,6.76,20.28,3.68,Central,Kiara Joshi
+ORD-1789,16-09-2024,P002,Bluetooth Speaker,Electronics,1,43.76,43.76,5.72,East,Neha Reddy
+ORD-1097,16-09-2024,P018,Recliner Chair,Furniture,1,258.5,258.5,50.52,North,Sai Mehta
+ORD-1155,17-09-2024,P046,Whiteboard Marker Set,Office Supplies,1,6.56,6.56,1.14,East,Vihaan Chatterjee
+ORD-1135,17-09-2024,P009,Wireless Keyboard,Electronics,1,27.93,27.93,3.45,South,Krishna Mehta
+ORD-1377,17-09-2024,P007,Webcam HD,Electronics,2,40.22,80.44,8.05,Central,Ishaan Reddy
+ORD-1275,18-09-2024,P035,Green Tea Pack,Groceries,2,3.66,7.32,1.08,West,Manish Iyer
+ORD-1270,18-09-2024,P027,Formal Trousers,Clothing,1,30.1,30.1,9.73,East,Vihaan Bose
+ORD-1181,18-09-2024,P006,Smart Watch,Electronics,5,129.23,646.15,130.55,West,Meera Pillai
+ORD-1767,19-09-2024,P035,Green Tea Pack,Groceries,5,3.76,18.8,1.5,North,Diya Patel
+ORD-1123,20-09-2024,P008,Power Bank 10000mAh,Electronics,1,24.24,24.24,5.3,East,Rajesh Verma
+ORD-1273,21-09-2024,P033,Wheat Flour 5kg,Groceries,1,6.38,6.38,0.77,East,Ananya Iyer
+ORD-1139,22-09-2024,P049,Notebook Pack (5),Office Supplies,3,9.67,29.01,5.7,North,Ira Verma
+ORD-1160,22-09-2024,P009,Wireless Keyboard,Electronics,4,29.7,118.8,27.43,North,Aditya Kumar
+ORD-1002,23-09-2024,P039,Organic Honey 500g,Groceries,2,7.53,15.06,2.05,South,Ira Singh
+ORD-1389,24-09-2024,P027,Formal Trousers,Clothing,3,31.17,93.51,28.69,West,Neha Naidu
+ORD-1372,24-09-2024,P019,Coffee Table,Furniture,4,75.57,302.28,70.96,East,Ira Iyer
+ORD-1547,25-09-2024,P013,Bookshelf,Furniture,4,91.42,365.68,61.11,East,Suresh Desai
+ORD-1611,25-09-2024,P033,Wheat Flour 5kg,Groceries,2,5.94,11.88,0.6,West,Aadhya Sharma
+ORD-1541,25-09-2024,P040,Breakfast Cereal,Groceries,4,4.93,19.72,1.6,Central,Aditya Naidu
+ORD-1119,26-09-2024,P006,Smart Watch,Electronics,1,128.91,128.91,25.74,East,Aditya Chatterjee
+ORD-1556,26-09-2024,P037,Mixed Spices Combo,Groceries,5,5.73,28.65,2.78,East,Rajesh Pillai
+ORD-1742,26-09-2024,P030,Leather Belt,Clothing,1,14.38,14.38,3.93,North,Neha Naidu
+ORD-1558,26-09-2024,P040,Breakfast Cereal,Groceries,6,5.23,31.38,2.47,East,Aarohi Verma
+ORD-1179,27-09-2024,P034,Sugar 1kg,Groceries,4,1.22,4.88,0.53,Central,Ayaan Gupta
+ORD-1502,27-09-2024,P009,Wireless Keyboard,Electronics,4,29.61,118.44,26.45,North,Krishna Bose
+ORD-1528,28-09-2024,P023,Denim Jeans,Clothing,1,36.62,36.62,11.43,North,Myra Reddy
+ORD-1647,28-09-2024,P047,Desk Organizer,Office Supplies,10,14.3,143.0,21.03,North,Kavita Bose
+ORD-1503,29-09-2024,P002,Bluetooth Speaker,Electronics,5,43.58,217.9,28.85,North,Aarav Bose
+ORD-1109,30-09-2024,P006,Smart Watch,Electronics,3,126.58,379.74,63.28,West,Aarav Bose
+ORD-1621,30-09-2024,P026,Sports Shoes,Clothing,2,47.05,94.1,19.86,North,Vihaan Shah
+ORD-1180,01-10-2024,P032,Cooking Oil 1L,Groceries,6,4.33,25.98,3.45,South,Myra Malhotra
+ORD-1418,02-10-2024,P025,Winter Jacket,Clothing,2,62.46,124.92,41.11,East,Aditya Kumar
+ORD-1178,02-10-2024,P003,USB-C Charger,Electronics,2,19.9,39.8,9.88,Central,Manish Gupta
+ORD-1404,02-10-2024,P034,Sugar 1kg,Groceries,3,1.23,3.69,0.5,North,Sunil Malhotra
+ORD-1542,02-10-2024,P031,Basmati Rice 5kg,Groceries,2,8.95,17.9,2.38,South,Ira Iyer
+ORD-1712,02-10-2024,P040,Breakfast Cereal,Groceries,1,5.08,5.08,0.7,South,Rajesh Iyer
+ORD-1575,03-10-2024,P013,Bookshelf,Furniture,8,97.89,783.12,184.9,East,Ananya Malhotra
+ORD-1799,03-10-2024,P012,Study Desk,Furniture,2,215.87,431.74,86.83,North,Pooja Verma
+ORD-1798,03-10-2024,P024,Cotton T-Shirt,Clothing,6,12.45,74.7,22.97,South,Ananya Iyer
+ORD-1459,03-10-2024,P009,Wireless Keyboard,Electronics,1,27.71,27.71,5.17,West,Aadhya Pillai
+ORD-1457,04-10-2024,P040,Breakfast Cereal,Groceries,2,5.13,10.26,0.64,West,Ananya Patel
+ORD-1398,05-10-2024,P016,Dining Table,Furniture,2,313.71,627.42,143.11,South,Vihaan Patel
+ORD-1583,05-10-2024,P016,Dining Table,Furniture,1,305.82,305.82,65.65,Central,Kiara Desai
+ORD-1246,06-10-2024,P025,Winter Jacket,Clothing,4,67.1,268.4,73.37,North,Ananya Gupta
+ORD-1630,06-10-2024,P037,Mixed Spices Combo,Groceries,2,6.19,12.38,1.53,North,Diya Mehta
+ORD-1523,06-10-2024,P032,Cooking Oil 1L,Groceries,2,4.49,8.98,0.75,South,Sunil Malhotra
+ORD-1461,07-10-2024,P031,Basmati Rice 5kg,Groceries,3,8.88,26.64,1.6,East,Suresh Iyer
+ORD-1255,07-10-2024,P037,Mixed Spices Combo,Groceries,1,5.95,5.95,0.42,East,Ananya Malhotra
+ORD-1076,07-10-2024,P038,Dry Fruits Pack,Groceries,1,11.98,11.98,1.33,East,Kiara Naidu
+ORD-1760,07-10-2024,P050,Calculator,Office Supplies,1,11.92,11.92,2.15,North,Sunil Iyer
+ORD-1397,08-10-2024,P050,Calculator,Office Supplies,1,12.0,12.0,1.94,West,Myra Malhotra
+ORD-1574,08-10-2024,P005,Noise Cancelling Headphones,Electronics,1,94.11,94.11,17.31,Central,Ananya Nair
+ORD-1443,08-10-2024,P004,Laptop Stand,Electronics,2,32.64,65.28,8.11,West,Ananya Malhotra
+ORD-1505,08-10-2024,P040,Breakfast Cereal,Groceries,2,4.97,9.94,1.16,South,Pooja Joshi
+ORD-1410,10-10-2024,P039,Organic Honey 500g,Groceries,1,7.9,7.9,0.63,East,Myra Kapoor
+ORD-1218,10-10-2024,P003,USB-C Charger,Electronics,2,20.1,40.2,7.11,North,Sai Mehta
+ORD-1697,10-10-2024,P008,Power Bank 10000mAh,Electronics,1,24.45,24.45,4.65,West,Reyansh Bose
+ORD-1082,11-10-2024,P012,Study Desk,Furniture,3,213.68,641.04,159.31,North,Ananya Nair
+ORD-1581,11-10-2024,P035,Green Tea Pack,Groceries,4,3.79,15.16,0.95,North,Neha Nair
+ORD-1395,11-10-2024,P002,Bluetooth Speaker,Electronics,1,44.02,44.02,7.79,West,Sai Nair
+ORD-1027,12-10-2024,P031,Basmati Rice 5kg,Groceries,1,9.27,9.27,1.34,South,Neha Sharma
+ORD-1373,12-10-2024,P040,Breakfast Cereal,Groceries,1,5.07,5.07,0.38,West,Diya Shah
+ORD-1449,13-10-2024,P020,Wardrobe 3-Door,Furniture,1,323.52,323.52,82.67,Central,Diya Chatterjee
+ORD-1090,13-10-2024,P012,Study Desk,Furniture,1,225.43,225.43,39.76,South,Reyansh Patel
+ORD-1378,13-10-2024,P028,Kids Hoodie,Clothing,8,18.25,146.0,30.78,West,Rajesh Pillai
+ORD-1676,13-10-2024,P035,Green Tea Pack,Groceries,3,3.58,10.74,1.42,East,Kavita Mehta
+ORD-1554,14-10-2024,P041,A4 Paper Ream,Office Supplies,1,5.77,5.77,0.67,Central,Myra Malhotra
+ORD-1518,14-10-2024,P023,Denim Jeans,Clothing,4,34.92,139.68,33.47,Central,Arjun Gupta
+ORD-1788,14-10-2024,P008,Power Bank 10000mAh,Electronics,4,26.15,104.6,22.32,Central,Aarohi Reddy
+ORD-1080,14-10-2024,P032,Cooking Oil 1L,Groceries,2,4.61,9.22,0.8,North,Rohan Kapoor
+ORD-1212,15-10-2024,P050,Calculator,Office Supplies,1,11.87,11.87,2.16,East,Rajesh Chatterjee
+ORD-1548,16-10-2024,P039,Organic Honey 500g,Groceries,3,7.53,22.59,2.37,South,Reyansh Kapoor
+ORD-1207,16-10-2024,P025,Winter Jacket,Clothing,5,63.49,317.45,88.69,West,Aarav Kumar
+ORD-1209,16-10-2024,P019,Coffee Table,Furniture,2,76.03,152.06,38.84,West,Rajesh Pillai
+ORD-1620,17-10-2024,P022,Women's Kurti,Clothing,2,21.38,42.76,16.71,West,Ira Verma
+ORD-1596,17-10-2024,P034,Sugar 1kg,Groceries,4,1.17,4.68,0.67,North,Reyansh Kumar
+ORD-1511,19-10-2024,P013,Bookshelf,Furniture,1,98.7,98.7,18.5,East,Meera Pillai
+ORD-1708,19-10-2024,P025,Winter Jacket,Clothing,4,64.92,259.68,57.62,Central,Riya Desai
+ORD-1430,20-10-2024,P027,Formal Trousers,Clothing,1,28.62,28.62,9.01,Central,Manish Malhotra
+ORD-1646,20-10-2024,P007,Webcam HD,Electronics,4,38.98,155.92,23.25,Central,Diya Shah
+ORD-1323,20-10-2024,P050,Calculator,Office Supplies,1,11.0,11.0,1.53,Central,Anika Kumar
+ORD-1301,21-10-2024,P034,Sugar 1kg,Groceries,8,1.15,9.2,1.06,North,Aadhya Desai
+ORD-1450,21-10-2024,P046,Whiteboard Marker Set,Office Supplies,2,6.45,12.9,1.58,West,Aarav Singh
+ORD-1737,21-10-2024,P033,Wheat Flour 5kg,Groceries,3,6.43,19.29,1.23,East,Meera Chatterjee
+ORD-1651,21-10-2024,P032,Cooking Oil 1L,Groceries,2,4.59,9.18,0.95,East,Riya Desai
+ORD-1190,21-10-2024,P029,Saree,Clothing,1,57.0,57.0,12.04,East,Aarav Bose
+ORD-1026,22-10-2024,P001,Wireless Mouse,Electronics,1,16.57,16.57,1.94,West,Sunil Iyer
+ORD-1147,22-10-2024,P005,Noise Cancelling Headphones,Electronics,8,93.27,746.16,121.42,South,Neha Nair
+ORD-1313,22-10-2024,P033,Wheat Flour 5kg,Groceries,6,6.25,37.5,3.3,North,Aadhya Pillai
+ORD-1572,22-10-2024,P040,Breakfast Cereal,Groceries,5,4.91,24.55,3.41,East,Rajesh Iyer
+ORD-1644,22-10-2024,P023,Denim Jeans,Clothing,4,34.01,136.04,35.24,Central,Kiara Pillai
+ORD-1626,23-10-2024,P001,Wireless Mouse,Electronics,2,15.53,31.06,6.15,Central,Diya Shah
+ORD-1598,23-10-2024,P029,Saree,Clothing,6,52.74,316.44,93.19,North,Riya Desai
+ORD-1749,24-10-2024,P027,Formal Trousers,Clothing,2,29.67,59.34,16.27,Central,Manish Malhotra
+ORD-1175,25-10-2024,P014,Filing Cabinet,Furniture,1,108.72,108.72,23.59,East,Ishaan Reddy
+ORD-1524,25-10-2024,P025,Winter Jacket,Clothing,2,65.8,131.6,52.44,North,Manish Shah
+ORD-1745,25-10-2024,P023,Denim Jeans,Clothing,1,36.66,36.66,9.06,South,Ira Naidu
+ORD-1756,25-10-2024,P005,Noise Cancelling Headphones,Electronics,1,87.0,87.0,15.34,Central,Pooja Patel
+ORD-1768,26-10-2024,P007,Webcam HD,Electronics,2,39.85,79.7,16.58,East,Aditya Reddy
+ORD-1407,26-10-2024,P027,Formal Trousers,Clothing,2,28.54,57.08,19.1,Central,Karan Singh
+ORD-1471,27-10-2024,P006,Smart Watch,Electronics,3,132.73,398.19,75.98,West,Krishna Mehta
+ORD-1306,27-10-2024,P003,USB-C Charger,Electronics,4,20.68,82.72,18.95,East,Vivaan Joshi
+ORD-1293,27-10-2024,P004,Laptop Stand,Electronics,1,33.04,33.04,5.15,North,Kiara Naidu
+ORD-1268,27-10-2024,P020,Wardrobe 3-Door,Furniture,2,341.58,683.16,120.18,North,Myra Mehta
+ORD-1028,28-10-2024,P040,Breakfast Cereal,Groceries,3,5.05,15.15,1.93,West,Aarav Shah
+ORD-1437,28-10-2024,P011,Office Chair,Furniture,3,148.93,446.79,129.91,West,Ananya Nair
+ORD-1713,28-10-2024,P018,Recliner Chair,Furniture,3,257.98,773.94,175.85,North,Manish Gupta
+ORD-1476,29-10-2024,P049,Notebook Pack (5),Office Supplies,6,10.04,60.24,6.84,Central,Kavita Kumar
+ORD-1236,30-10-2024,P033,Wheat Flour 5kg,Groceries,3,6.21,18.63,0.99,South,Kiara Reddy
+ORD-1660,30-10-2024,P004,Laptop Stand,Electronics,5,32.06,160.3,24.11,East,Aadhya Naidu
+ORD-1584,30-10-2024,P033,Wheat Flour 5kg,Groceries,3,5.99,17.97,2.57,West,Rajesh Mehta
+ORD-1013,30-10-2024,P001,Wireless Mouse,Electronics,6,16.11,96.66,22.83,South,Arjun Chatterjee
+ORD-1315,31-10-2024,P003,USB-C Charger,Electronics,6,19.31,115.86,12.89,North,Ananya Malhotra
+ORD-1604,31-10-2024,P034,Sugar 1kg,Groceries,2,1.24,2.48,0.34,North,Reyansh Iyer
+ORD-1032,31-10-2024,P004,Laptop Stand,Electronics,3,33.31,99.93,22.38,South,Manish Bose
+ORD-1512,31-10-2024,P014,Filing Cabinet,Furniture,4,112.46,449.84,120.98,Central,Sunil Chatterjee
+ORD-1479,01-11-2024,P021,Men's Formal Shirt,Clothing,3,25.97,77.91,27.35,West,Kiara Shah
+ORD-1527,01-11-2024,P017,Bed Frame Queen,Furniture,1,375.47,375.47,111.32,East,Aadhya Naidu
+ORD-1433,01-11-2024,P010,Portable SSD 1TB,Electronics,5,96.81,484.05,96.3,East,Manish Iyer
+ORD-1438,02-11-2024,P040,Breakfast Cereal,Groceries,1,4.81,4.81,0.47,North,Diya Chatterjee
+ORD-1612,02-11-2024,P008,Power Bank 10000mAh,Electronics,2,25.55,51.1,-1.94,North,Karan Reddy
+ORD-1227,02-11-2024,P025,Winter Jacket,Clothing,1,66.03,66.03,22.65,North,Ayaan Gupta
+ORD-1444,03-11-2024,P021,Men's Formal Shirt,Clothing,1,27.2,27.2,5.47,South,Manish Gupta
+ORD-1432,03-11-2024,P032,Cooking Oil 1L,Groceries,1,4.55,4.55,0.44,South,Ishaan Kapoor
+ORD-1081,03-11-2024,P012,Study Desk,Furniture,2,228.22,456.44,132.9,North,Arjun Singh
+ORD-1126,04-11-2024,P036,Instant Noodles Pack,Groceries,6,2.1,12.6,1.64,North,Kavita Singh
+ORD-1670,04-11-2024,P008,Power Bank 10000mAh,Electronics,3,26.13,78.39,19.31,West,Ira Rao
+ORD-1006,04-11-2024,P026,Sports Shoes,Clothing,1,47.47,47.47,17.96,Central,Aarav Mehta
+ORD-1127,04-11-2024,P043,Stapler,Office Supplies,2,6.87,13.74,1.48,East,Ayaan Gupta
+ORD-1566,06-11-2024,P045,File Folders (10),Office Supplies,5,8.36,41.8,5.75,South,Myra Malhotra
+ORD-1536,06-11-2024,P035,Green Tea Pack,Groceries,1,3.63,3.63,-0.01,Central,Krishna Bose
+ORD-1500,06-11-2024,P027,Formal Trousers,Clothing,3,30.07,90.21,30.7,East,Aadhya Desai
+ORD-1628,08-11-2024,P033,Wheat Flour 5kg,Groceries,1,6.33,6.33,0.89,North,Manish Iyer
+ORD-1796,08-11-2024,P029,Saree,Clothing,5,56.22,281.1,73.86,East,Rajesh Joshi
+ORD-1173,08-11-2024,P003,USB-C Charger,Electronics,1,19.66,19.66,2.84,South,Ira Joshi
+ORD-1064,08-11-2024,P036,Instant Noodles Pack,Groceries,1,2.04,2.04,0.11,Central,Neha Nair
+ORD-1296,10-11-2024,P033,Wheat Flour 5kg,Groceries,2,6.51,13.02,1.01,South,Kavita Patel
+ORD-1177,10-11-2024,P029,Saree,Clothing,6,57.13,342.78,121.33,East,Ira Naidu
+ORD-1560,11-11-2024,P044,Sticky Notes Pack,Office Supplies,4,2.88,11.52,-0.43,North,Karan Naidu
+ORD-1415,11-11-2024,P034,Sugar 1kg,Groceries,1,1.21,1.21,0.17,West,Rajesh Pillai
+ORD-1067,11-11-2024,P039,Organic Honey 500g,Groceries,2,7.99,15.98,1.05,North,Reyansh Pillai
+ORD-1412,11-11-2024,P036,Instant Noodles Pack,Groceries,1,2.19,2.19,0.3,South,Aadhya Desai
+ORD-1263,11-11-2024,P021,Men's Formal Shirt,Clothing,3,25.12,75.36,20.37,South,Ishaan Kapoor
+ORD-1399,12-11-2024,P022,Women's Kurti,Clothing,2,23.36,46.72,15.54,East,Karan Reddy
+ORD-1361,12-11-2024,P039,Organic Honey 500g,Groceries,1,7.88,7.88,0.5,North,Ananya Joshi
+ORD-1662,12-11-2024,P006,Smart Watch,Electronics,8,133.5,1068.0,114.38,West,Ayaan Sharma
+ORD-1783,14-11-2024,P037,Mixed Spices Combo,Groceries,8,6.19,49.52,5.81,West,Rajesh Chatterjee
+ORD-1710,16-11-2024,P011,Office Chair,Furniture,3,144.42,433.26,88.8,Central,Ananya Reddy
+ORD-1049,16-11-2024,P017,Bed Frame Queen,Furniture,3,393.37,1180.11,327.89,West,Ira Rao
+ORD-1720,16-11-2024,P048,Printer Ink Cartridge,Office Supplies,1,22.3,22.3,4.03,West,Ishaan Iyer
+ORD-1256,16-11-2024,P030,Leather Belt,Clothing,5,15.43,77.15,29.23,North,Aadhya Sharma
+ORD-1095,17-11-2024,P013,Bookshelf,Furniture,1,91.64,91.64,16.46,North,Kavita Kumar
+ORD-1096,17-11-2024,P030,Leather Belt,Clothing,4,14.92,59.68,22.97,Central,Kiara Joshi
+ORD-1252,17-11-2024,P006,Smart Watch,Electronics,5,133.39,666.95,134.35,Central,Krishna Bose
+ORD-1058,17-11-2024,P034,Sugar 1kg,Groceries,3,1.18,3.54,0.4,South,Sunil Chatterjee
+ORD-1143,17-11-2024,P050,Calculator,Office Supplies,1,11.17,11.17,1.76,North,Aarohi Pillai
+ORD-1466,18-11-2024,P010,Portable SSD 1TB,Electronics,1,95.98,95.98,11.95,East,Anika Kumar
+ORD-1623,19-11-2024,P044,Sticky Notes Pack,Office Supplies,1,2.72,2.72,0.3,West,Suresh Desai
+ORD-1393,20-11-2024,P026,Sports Shoes,Clothing,8,45.86,366.88,127.94,West,Reyansh Bose
+ORD-1241,21-11-2024,P003,USB-C Charger,Electronics,2,19.83,39.66,4.79,South,Aadhya Naidu
+ORD-1586,21-11-2024,P037,Mixed Spices Combo,Groceries,2,6.08,12.16,0.68,South,Krishna Patel
+ORD-1166,22-11-2024,P045,File Folders (10),Office Supplies,1,8.6,8.6,1.36,Central,Reyansh Bose
+ORD-1319,22-11-2024,P025,Winter Jacket,Clothing,5,65.81,329.05,97.42,South,Kiara Pillai
+ORD-1482,22-11-2024,P039,Organic Honey 500g,Groceries,5,7.73,38.65,5.23,East,Ananya Rao
+ORD-1608,22-11-2024,P018,Recliner Chair,Furniture,2,255.21,510.42,117.16,North,Ira Sharma
+ORD-1238,23-11-2024,P039,Organic Honey 500g,Groceries,1,7.66,7.66,0.73,West,Rajesh Joshi
+ORD-1358,23-11-2024,P003,USB-C Charger,Electronics,1,19.03,19.03,3.34,North,Manish Shah
+ORD-1501,23-11-2024,P031,Basmati Rice 5kg,Groceries,6,8.73,52.38,5.19,North,Manish Reddy
+ORD-1400,24-11-2024,P029,Saree,Clothing,5,57.65,288.25,58.16,West,Manish Chatterjee
+ORD-1320,24-11-2024,P012,Study Desk,Furniture,2,211.54,423.08,113.27,East,Meera Pillai
+ORD-1701,25-11-2024,P007,Webcam HD,Electronics,1,41.34,41.34,8.63,Central,Sai Desai
+ORD-1105,26-11-2024,P026,Sports Shoes,Clothing,5,48.82,244.1,89.29,Central,Meera Pillai
+ORD-1616,26-11-2024,P005,Noise Cancelling Headphones,Electronics,1,86.12,86.12,21.26,West,Kavita Kumar
+ORD-1480,26-11-2024,P001,Wireless Mouse,Electronics,2,15.49,30.98,7.2,South,Rajesh Chatterjee
+ORD-1413,26-11-2024,P034,Sugar 1kg,Groceries,1,1.22,1.22,0.13,Central,Rajesh Sharma
+ORD-1229,27-11-2024,P049,Notebook Pack (5),Office Supplies,3,10.4,31.2,3.46,East,Ayaan Sharma
+ORD-1740,27-11-2024,P017,Bed Frame Queen,Furniture,5,396.9,1984.5,560.92,North,Vivaan Rao
+ORD-1172,27-11-2024,P043,Stapler,Office Supplies,5,6.97,34.85,4.16,South,Aarav Kumar
+ORD-1774,28-11-2024,P004,Laptop Stand,Electronics,1,30.45,30.45,7.48,South,Aadhya Chatterjee
+ORD-1198,28-11-2024,P034,Sugar 1kg,Groceries,2,1.17,2.34,0.19,West,Ira Sharma
+ORD-1797,28-11-2024,P047,Desk Organizer,Office Supplies,2,14.55,29.1,4.49,West,Neha Verma
+ORD-1010,29-11-2024,P002,Bluetooth Speaker,Electronics,2,46.63,93.26,10.05,South,Aditya Chatterjee
+ORD-1168,29-11-2024,P028,Kids Hoodie,Clothing,2,17.94,35.88,14.09,North,Vihaan Reddy
+ORD-1376,30-11-2024,P008,Power Bank 10000mAh,Electronics,5,24.86,124.3,28.4,North,Aarohi Pillai
+ORD-1677,30-11-2024,P034,Sugar 1kg,Groceries,1,1.14,1.14,0.09,West,Ira Verma
+ORD-1532,30-11-2024,P003,USB-C Charger,Electronics,2,19.61,39.22,7.48,South,Sunil Malhotra
+ORD-1185,30-11-2024,P047,Desk Organizer,Office Supplies,2,15.62,31.24,4.3,Central,Vivaan Nair
+ORD-1077,01-12-2024,P037,Mixed Spices Combo,Groceries,10,6.01,60.1,5.73,North,Rajesh Mehta
+ORD-1371,01-12-2024,P043,Stapler,Office Supplies,2,6.98,13.96,2.64,North,Aarohi Verma
+ORD-1609,01-12-2024,P017,Bed Frame Queen,Furniture,3,385.78,1157.34,220.92,North,Aditya Reddy
+ORD-1283,02-12-2024,P041,A4 Paper Ream,Office Supplies,1,5.42,5.42,1.0,East,Krishna Joshi
+ORD-1446,02-12-2024,P040,Breakfast Cereal,Groceries,1,5.13,5.13,0.35,North,Aarohi Iyer
+ORD-1074,03-12-2024,P038,Dry Fruits Pack,Groceries,2,12.33,24.66,2.7,South,Diya Patel
+ORD-1056,03-12-2024,P048,Printer Ink Cartridge,Office Supplies,1,21.74,21.74,2.95,East,Rajesh Iyer
+ORD-1204,03-12-2024,P024,Cotton T-Shirt,Clothing,1,12.54,12.54,3.06,North,Aadhya Chatterjee
+ORD-1382,03-12-2024,P031,Basmati Rice 5kg,Groceries,6,9.29,55.74,6.07,West,Aarav Kumar
+ORD-1442,03-12-2024,P019,Coffee Table,Furniture,2,78.66,157.32,37.23,West,Aditya Kumar
+ORD-1317,04-12-2024,P004,Laptop Stand,Electronics,8,31.71,253.68,46.45,Central,Suresh Kumar
+ORD-1704,04-12-2024,P003,USB-C Charger,Electronics,2,20.35,40.7,5.0,North,Arjun Chatterjee
+ORD-1719,04-12-2024,P033,Wheat Flour 5kg,Groceries,6,6.33,37.98,3.86,West,Pooja Patel
+ORD-1431,04-12-2024,P003,USB-C Charger,Electronics,1,19.35,19.35,4.72,Central,Myra Mehta
+ORD-1107,04-12-2024,P043,Stapler,Office Supplies,1,7.23,7.23,0.8,Central,Reyansh Kumar
+ORD-1037,05-12-2024,P016,Dining Table,Furniture,2,288.14,576.28,100.34,West,Arjun Singh
+ORD-1046,05-12-2024,P007,Webcam HD,Electronics,1,41.09,41.09,4.38,West,Anika Mehta
+ORD-1069,05-12-2024,P016,Dining Table,Furniture,1,293.28,293.28,86.59,West,Meera Pillai
+ORD-1088,07-12-2024,P009,Wireless Keyboard,Electronics,1,28.3,28.3,4.03,West,Ishaan Gupta
+ORD-1011,08-12-2024,P001,Wireless Mouse,Electronics,8,15.51,124.08,12.79,South,Anika Kumar
+ORD-1448,08-12-2024,P004,Laptop Stand,Electronics,3,33.52,100.56,11.37,West,Sai Mehta
+ORD-1718,09-12-2024,P037,Mixed Spices Combo,Groceries,3,5.88,17.64,1.61,Central,Manish Iyer
+ORD-1454,10-12-2024,P026,Sports Shoes,Clothing,2,45.65,91.3,33.46,North,Rohan Verma
+ORD-1226,10-12-2024,P048,Printer Ink Cartridge,Office Supplies,8,21.36,170.88,30.72,North,Rohan Naidu
+ORD-1239,10-12-2024,P017,Bed Frame Queen,Furniture,3,383.31,1149.93,232.5,Central,Ira Joshi
+ORD-1515,10-12-2024,P011,Office Chair,Furniture,2,150.97,301.94,60.09,South,Neha Kumar
+ORD-1656,10-12-2024,P022,Women's Kurti,Clothing,2,22.57,45.14,16.48,West,Ira Naidu
+ORD-1447,11-12-2024,P049,Notebook Pack (5),Office Supplies,1,9.52,9.52,1.52,South,Kiara Pillai
+ORD-1324,12-12-2024,P048,Printer Ink Cartridge,Office Supplies,1,21.77,21.77,-0.93,Central,Myra Malhotra
+ORD-1570,12-12-2024,P018,Recliner Chair,Furniture,4,260.61,1042.44,277.63,North,Ira Iyer
+ORD-1234,12-12-2024,P028,Kids Hoodie,Clothing,2,18.13,36.26,13.13,East,Kiara Iyer
+ORD-1703,13-12-2024,P005,Noise Cancelling Headphones,Electronics,2,87.57,175.14,-4.59,North,Aarohi Pillai
+ORD-1250,13-12-2024,P030,Leather Belt,Clothing,2,14.74,29.48,10.05,East,Suresh Naidu
+ORD-1158,14-12-2024,P040,Breakfast Cereal,Groceries,2,5.0,10.0,1.22,West,Reyansh Iyer
+ORD-1347,14-12-2024,P039,Organic Honey 500g,Groceries,1,7.49,7.49,0.47,Central,Pooja Joshi
+ORD-1390,15-12-2024,P007,Webcam HD,Electronics,1,40.67,40.67,5.29,South,Arjun Singh
+ORD-1585,16-12-2024,P026,Sports Shoes,Clothing,3,49.55,148.65,34.97,North,Kiara Iyer
+ORD-1370,16-12-2024,P048,Printer Ink Cartridge,Office Supplies,5,22.39,111.95,13.22,East,Pooja Verma
+ORD-1243,16-12-2024,P048,Printer Ink Cartridge,Office Supplies,1,22.69,22.69,4.46,West,Rohan Naidu
+ORD-1068,17-12-2024,P025,Winter Jacket,Clothing,1,64.16,64.16,18.52,East,Aadhya Sharma
+ORD-1722,17-12-2024,P012,Study Desk,Furniture,3,227.61,682.83,129.77,South,Aditya Reddy
+ORD-1356,17-12-2024,P001,Wireless Mouse,Electronics,1,15.66,15.66,3.28,East,Diya Nair
+ORD-1257,18-12-2024,P038,Dry Fruits Pack,Groceries,1,13.04,13.04,0.86,West,Aarohi Iyer
+ORD-1092,19-12-2024,P027,Formal Trousers,Clothing,1,29.71,29.71,11.68,Central,Aarav Kumar
+ORD-1022,19-12-2024,P018,Recliner Chair,Furniture,1,253.54,253.54,42.62,North,Aditya Naidu
+ORD-1159,19-12-2024,P010,Portable SSD 1TB,Electronics,8,96.09,768.72,79.06,South,Ishaan Kapoor
+ORD-1359,19-12-2024,P009,Wireless Keyboard,Electronics,3,28.77,86.31,9.25,North,Neha Kumar
+ORD-1265,19-12-2024,P013,Bookshelf,Furniture,1,96.37,96.37,18.04,Central,Diya Chatterjee
+ORD-1614,20-12-2024,P035,Green Tea Pack,Groceries,1,3.81,3.81,0.22,East,Saanvi Kapoor
+ORD-1679,21-12-2024,P042,Ballpoint Pen Pack,Office Supplies,3,3.21,9.63,1.43,East,Anika Kumar
+ORD-1260,22-12-2024,P004,Laptop Stand,Electronics,2,30.82,61.64,8.26,North,Myra Kapoor
+ORD-1302,23-12-2024,P037,Mixed Spices Combo,Groceries,2,6.19,12.38,1.67,Central,Ira Rao
+ORD-1735,23-12-2024,P038,Dry Fruits Pack,Groceries,2,12.39,24.78,3.32,North,Rajesh Chatterjee
+ORD-1271,23-12-2024,P043,Stapler,Office Supplies,2,6.91,13.82,2.26,North,Rajesh Verma
+ORD-1045,23-12-2024,P028,Kids Hoodie,Clothing,2,18.6,37.2,11.48,East,Meera Kapoor
+ORD-1462,24-12-2024,P005,Noise Cancelling Headphones,Electronics,2,91.01,182.02,28.19,South,Saanvi Reddy
+ORD-1590,25-12-2024,P009,Wireless Keyboard,Electronics,5,28.1,140.5,32.2,South,Kavita Singh
+ORD-1685,25-12-2024,P024,Cotton T-Shirt,Clothing,4,13.07,52.28,17.67,Central,Ananya Shah
+ORD-1228,25-12-2024,P027,Formal Trousers,Clothing,2,31.26,62.52,23.38,North,Krishna Mehta
+ORD-1259,26-12-2024,P033,Wheat Flour 5kg,Groceries,1,6.33,6.33,0.78,West,Meera Pillai
+ORD-1650,26-12-2024,P048,Printer Ink Cartridge,Office Supplies,4,22.82,91.28,12.83,East,Rajesh Sharma
+ORD-1787,27-12-2024,P031,Basmati Rice 5kg,Groceries,4,9.04,36.16,5.05,Central,Aarohi Reddy
+ORD-1387,29-12-2024,P039,Organic Honey 500g,Groceries,3,7.57,22.71,2.55,East,Meera Gupta
+ORD-1040,29-12-2024,P009,Wireless Keyboard,Electronics,1,27.9,27.9,6.48,North,Manish Chatterjee
+ORD-1248,29-12-2024,P012,Study Desk,Furniture,2,230.87,461.74,122.98,Central,Ananya Nair
+ORD-1653,29-12-2024,P018,Recliner Chair,Furniture,3,256.5,769.5,135.66,North,Rohan Kapoor
+ORD-1687,29-12-2024,P016,Dining Table,Furniture,1,298.26,298.26,88.92,East,Ira Joshi
+ORD-1134,29-12-2024,P002,Bluetooth Speaker,Electronics,2,47.31,94.62,15.78,East,Neha Verma
+ORD-1284,30-12-2024,P015,Sofa Set,Furniture,1,451.34,451.34,83.83,North,Reyansh Chatterjee
+ORD-1386,30-12-2024,P033,Wheat Flour 5kg,Groceries,2,6.38,12.76,1.59,Central,Meera Chatterjee
+ORD-1779,31-12-2024,P028,Kids Hoodie,Clothing,2,18.92,37.84,14.65,West,Aarav Bose
+ORD-1746,31-12-2024,P038,Dry Fruits Pack,Groceries,1,12.46,12.46,1.71,West,Pooja Patel
