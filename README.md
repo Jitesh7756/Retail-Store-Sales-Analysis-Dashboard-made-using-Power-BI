@@ -1,38 +1,60 @@
-# Retail Store Sales Analysis – Power BI
+# 🛍️ Retail Store Analytics Power BI Dashboard
 
-An interactive Power BI report analyzing retail store sales, built to explore sales performance, profitability, and product trends.
+An interactive, multi-page Power BI dashboard engineered to analyze retail sales performance, customer purchasing behavior, and category insights. Built with custom DAX calculations, structured data modeling, and modern UI styling.
 
-## 📊 Report Overview
+---
 
-The report has **2 tabs**:
+## 📊 Executive Summary & Key Highlights
 
-**1. Sales Table**
-Order-level sales data including Order ID, Order Date, Product Name, Category, Quantity, Unit Price, Sales Amount, Profit, Region, and Customer Name.
+This project translates raw retail transactional data into actionable business intelligence. The interactive report enables stakeholders to track revenue trends, evaluate product performance, and uncover strategic growth opportunities across locations.
 
-**2. Product Table**
-Product-level reference data including Product ID, Product Name, Category, and Unit Price.
+* **File Type:** Power BI Template (`.pbit`) / Power BI Project (`.pbip`)
+* **Theme & UI:** Custom Fluent UI palette with standardized layouts
+* **Reporting:** 3 dedicated report pages for executive, tactical, and deep-dive analytics
 
-## 🛠️ Tools Used
-- Power BI Desktop
-- DAX
-- Power Query
+---
 
-## 📁 Files
-- `RetailSalesAnalysis.pbix` / `.pbip` – Power BI report file
-- `screenshots/` – Report preview images
+## 📁 Repository Structure
 
-## 🔗 Live Report
-[Add your Power BI Service link here]
+```text
+├── DAXQueries/            # Custom DAX queries and measure definitions
+├── Report/
+│   ├── definition/
+│   │   └── pages/         # Page layouts & visual configurations (Page 1 - 3)
+│   └── StaticResources/   # Theme configs and registered visual assets
+├── Retail_PBI.pbit        # Power BI project template file
+└── README.md              # Project documentation
 
-## 📌 Key Insights
-- [Add 2–3 bullet points once finalized, e.g. top-performing region, best-selling category, profit trends]
+📈 Dashboard Architecture
+Page 1: Executive KPI Overview
+Key Metrics: High-level overview of total sales revenue, order volumes, average order value (AOV), and profit margins.
 
-## 📷 Preview
-![Dashboard Preview](screenshots/dashboard-overview.png)
+Trend Analysis: Time-series performance tracking key metrics across monthly and quarterly intervals.
 
+Page 2: Category & Product Performance
+Product Segmentation: Visual breakdown of sales by product categories and SKU performance.
 
-## 🏢 TNS India Foundation — C2TC Program
+Comparative Insights: Visual analysis comparing revenue generation vs. product margins.
 
-* **Jitesh Janardan Kalekar**
-* **UID:** T140200807
+Page 3: Transactional & Detailed Deep Dive
+Granular Tables: Filterable tabular view for operational analysis and transaction-level auditing.
+
+Diagnostic Analytics: Dynamic slicers and drill-through features to isolate specific regional or date-based trends.
+
+Technical Details
+Data Modeling: Multi-table relational model optimized using Star Schema principles (DataModelSchema).
+
+DAX Formulas: Dynamic calculations for time intelligence (YoY growth, cumulative sales) and context-aware KPI cards stored in DAXQueries/.
+
+.....
+```
+# 👥 Team Contributions
+
+## 🏢 TNS INDIA FOUNDATION (C2TC PROGRAM)
+
+| Team Member | UID | Contribution |
+|---|---|---|
+| **Jitesh Janardan Kalekar** | T140200807 | 📊 Acquired and Cleaned the Dataset |
+| **Pranay Vijay Kadam** | T140200808 | 🔗 Created Dataset Relationships and Formulated DAX Measures |
+| **Omkar Pandharinath Umawane** | T140200809 | 📈 Created an Interactive and Clean Dashboard |
 
