@@ -30,3 +30,9 @@ Product-level reference data including Product ID, Product Name, Category, and U
 ## 📷 Preview
 ![Dashboard Preview](screenshots/dashboard-overview.png)
 
+
+## 🏢 TNS India Foundation — C2TC Program
+
+* **Jitesh Janardan Kalekar**
+* **UID:** T140200807
+
